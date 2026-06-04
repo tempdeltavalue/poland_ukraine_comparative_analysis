@@ -1,0 +1,263 @@
+РЕЄСТР УНІКАЛЬНИХ ФІНАНСОВИХ ПОКАЗНИКІВ KNF (Всього: 260)
+======================================================================
+
+(-) Interim dividends
+(-) Treasury shares
+(non-financial sector)
+Abroad
+Accumulated other comprehensive income
+Additional Risk Exposure Amount Due To Fixed Overheads
+Additional Tier 1 Capital
+Administrative expenses
+All portfolios
+At the head office
+Available Stable Funding, including ASF from:
+BLOCKED DEPOSITS
+Balance sheet
+Banking offices
+Blocked deposits
+CET1 Capital ratio
+COMMITMENTS EXTENDED
+COMMITMENTS RECEIVED
+CONSUMER LOANS
+Capital
+Capital adequacy
+Capital items and instruments
+Cash, cash balances at central banks and other demand deposits
+Central and local government institutions
+Central government deposits
+Central government, local government, SSFs liabilities
+Commercial banks operating with foreign branches
+Commercial banks operating with foreign branches (without associating banks)
+Commercial real estate loans - non-financial corporations
+Commitments and guarantees given
+Commitments to lend
+Common Equity Tier 1 Capital
+Consumer loans - credit cards
+Consumer loans - instalment car loans
+Consumer loans - other
+Consumer loans - other instalment loans
+Consumer loans - total
+Credits
+DEPOSITS (without blocked)
+Debt securities
+Debt securities issued
+Deposits
+Deposits (without blocked)
+Depreciation
+Derivatives
+Derivatives - hedge accounting, interest rate risk
+Dividend income
+EUR
+Equity instruments
+Equity instruments issued other than capital
+Exposures secured by mortgage
+FINANCIAL SECTOR
+Farmers
+Fee and commission expenses
+Fee and commission income
+Financial assets at amortised cost
+Financial assets at fair value through other comprehensive income/ Financial assets available for sale
+Financial assets designated at fair value through profit or loss
+Financial assets held for trading
+Financial liabilities designated at fair value through profit or loss
+Financial liabilities held for trading
+Financial liabilities measured at amortised cost
+Financial sector
+Financial sector liabilities (excluding Central Banks)
+Fully Exempt Inflows
+GENERAL GOVERNMENT SECTOR
+GROSS CARRYING AMOUNT OF EXPOSURES
+General Government deposits
+General administrative expenses
+General government sector
+Goodwill
+Gross carrying amount and write-offs
+Guarantee commitments
+HOUSEHOLDS
+Hedging finanacial liabilities / Derivatives - Hedge accounting
+Hedging financial assets
+Households deposits
+Housing loans - CHF - households
+Housing loans - EUR - households
+Housing loans - PLN - households
+Housing loans - non-financial corporations
+Housing loans - other FCY - households
+Housing loans - total - households
+I. Exposures secured by mortgage
+II. Retail exposures value
+IIa. Impaired retail exposures value
+IIb. Retail exposures - impairment write-offs
+INVESTMENT LOANS
+Ia. Exposures secured by mortgage - housing and consumer loans
+Ib. Exposures secured by mortgage - other loans and receivables
+Impaired receivables - Stage 3
+Impaired receivables write-offs - Stage 3
+Impairment or (-) reversal of impairment
+In Poland
+Income statement
+Individuals
+Inflows Subject to 75% Cap
+Inflows Subject to 90% Cap
+Intangible assets
+Interest expenses
+Interest income
+Investment loans - SMEs
+Investment loans - households
+Investment loans - large enterprises
+Investment properties
+Investment property
+Investments in subsidaries, joint ventures and associates
+Items that may be reclassified to profit or loss
+Items that will not be reclassified to profit or loss
+LCR
+Large enterprises
+Liabilities - CHOSEN CATEGORIES
+Liabilities provided by non-financial corporate customers
+Liquidity
+Liquidity Coverage Ratio (%)
+Liquidity buffer
+Loans and advances
+Loans and advances desginated at fair value through profit or loss - (balance sheet value)
+Loans and advances/ Other receivables
+Loans to non-financial customers where those loans are assigned a risk weight of 35 % or less
+Local government deposits
+Modification gains or (-) losses, net
+NON-FINANCIAL CORPORATIONS
+NON-FINANCIAL SECTOR
+NON-PROFIT INSTITUTIONS SERVING HOUSEHOLDS
+NON-RESIDENT
+NSFR
+Negative goodwill recognised in profit or loss
+Net Sable Funding Ratio (%)
+Net fee and commission income
+Net interest income
+Net liquidity outflow
+Non-financial assets
+Non-financial corporations deposits
+Non-financial sector
+Non-financial sector - total
+Non-financial sector deposits
+Non-financial sector liabilities
+Non-profit institutions serving households - total
+Non-profit institutions serving households deposits
+Non-resident
+Number of Branches of credit institutions and foreign banks
+Number of agencies
+Number of banks - total
+Number of banks and Branches of credit institutions and foreign banks
+Number of branch offices
+Number of commercial banks
+Number of commercial banks under domestic control
+Number of commercial banks under foreign control
+Number of cooperative banks
+Number of employees
+Number of other customer service facilities
+OBS items
+OPERATING LOANS
+Off balance sheet commitments
+Operating loans - SMEs
+Operating loans - households
+Operating loans - large enterprises
+Operating profit/loss
+Other
+Other Risk Exposure Amounts
+Other assets
+Other capital reserve
+Other financial liabilities
+Other intangible assets
+Other items in the revaluation reserve
+Other liabilities
+Other loans to non-financial customers
+Other provisions
+Other real estate loans - households
+Other real estate loans - non-financial corporations
+Other than PLN and EUR
+Own Funds
+Ownership structure of commercial banks
+PROFIT OR (-) LOSS BEFORE TAX
+PROFIT OR (-) LOSS BEFORE TAX FROM CONTINUING OPERATIONS
+PROFIT OR (-) LOSS FOR THE YEAR
+Pending legal issues and tax litigation
+Pensions and other post employment defined benefit obligations
+Profit or (-) loss before tax from discontinued operations
+Profit or (-) loss for the year
+Property, Plant and Equipment
+Property, plant and equipment
+Provisions
+Quarterly data
+REAL ESTATE LOANS - non-financial sector
+RESIDENT
+Receivables (gross carrying amount)
+Receivables - by overdue period
+Receivables - chosen products (non-financial sector)
+Receivables - debt instruments
+Receivables - non-financial sector
+Receivables - real estate loans
+Receivables - w/o debt instruments
+Reduction for Fully Exempt Inflows
+Reduction for Inflows Subject to 75% Cap
+Reduction for Inflows Subject to 90% Cap
+Required Stable Funding, including RSF from:
+Resident
+Restructuring
+Retail deposits
+Retained earnings
+Revaluation reserve
+Risk Weighted Exposure Amounts For Credit, Counterparty Credit And Dilution Risk and Free Deliveries
+SMEs
+SSFs deposits
+Securities other than liquid assets
+Share of the profit or (-) loss of investments in subsidaries, joint ventures and associates
+Share premium
+Sole traders
+Staff expenses
+Staffing
+Structural data
+Structure by borrower
+T1 Capital ratio
+TOTAL
+TOTAL - past due
+TOTAL OPERATING INCOME, NET
+Tangible assets
+Tax assets
+Tax expense
+Tax liabilities
+Tier 2 Capital
+Total Outflows
+Total Risk Exposure Amount
+Total Risk Exposure Amount For Credit Valuation Adjustment
+Total Risk Exposure Amount For Operational Risk
+Total Risk Exposure Amount For Position Foreign Exchange And Commodities Risk
+Total Risk Exposure Amount For Settlement/Delivery
+Total Risk Exposure Amount Related To Large Exposures In The Trading Book
+Total assets
+Total capital ratio
+Total equity
+Total equity and total liabilities
+Total liabilities
+Total unadjusted level 1 assets, including:
+Total unadjusted level 1 extremely high quality covered bonds
+Total unadjusted level 2A assets
+Total unadjusted level 2B assets
+Unimpaired receivables
+Unimpaired receivables write-offs
+Unpaid capital which has been called up
+from 31 up to 90 days
+from 91 up to 180 days
+including: profit or (-) loss from discontinued operations
+o/w controlled by private owner
+o/w controlled by the State
+o/w financial assets available for sale
+o/w issued by central banks
+o/w issued by central government
+o/w issued by local governments
+o/w profit or (-) loss pending approval
+o/w unimpaired receivables - Stage 1
+o/w unimpaired receivables - Stage 2
+o/w unimpaired receivables write-offs - Stage 1
+o/w unimpaired receivables write-offs - Stage 2
+of which:
+over 180 days
+past due housing loans
+up to 30 days
