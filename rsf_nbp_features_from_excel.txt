@@ -1,0 +1,2735 @@
+% aktywów banków komercyjnych / % of assets of commercial banks
+% of applications accepted, Large enterprises
+% of approved applications, SMEs
+% of approved loan applications, total
+% zaakceptowanych wniosków kredytowych, ogółem
+% zaakceptowanych wniosków, Duże przedsiębiorstwa
+% zaakceptowanych wniosków, MSP
+(10-20%]
+(20-30%]
+(30-40%]
+(40-100%]
+(Adjusted** NIM (rhs) [%])
+(Between 1st decile and 1st quartile)
+(Between 1st quartile and 1st decile)
+(First decile)
+(First quartile)
+(Mean without PKO BP adjustment of 2020 earnings)
+(Mean without PKO BP adjustment)
+(Między pierwszym decylem a pierwszym kwartylem)
+(Między pierwszym kwartylem a pierwszym decylem)
+(Monthly NII adjustment** [PLN billion])
+(Pierwszy decyl)
+(Pierwszy kwartyl)
+(Skorygowany* NIM (prawa oś) [%])
+(Zwiększenie* wyniku odsetkowego [mld zł])
+(Średnia z pominięciem zmiany wyniku PKO BP za 2020)
+* * including provisions for legal risk of FX housing loans - except for banks which recognised them jointly with credit risk provisions.
+* * including provisions for legal risk of FX housing loans - except for banks which recognised them jointly with the provisions for credit risk.
+* * including provisions for legal risk of FX housing loans – except for banks which recognised them jointly with the provisions for credit risk.
+* * including provisions for legal risk of FX housing loans, except for banks which recognised them jointly with the provisions for credit risk.
+* Koszty ogólnego zarządu (pomniejszone o podatek od niektórych instytucji finansowych) oraz amortyzacja.
+* w tym również rezerwy na ryzyko prawne walutowych kredytów mieszkaniowych – z wyjątkiem banków, które wykazały je łącznie z odpisami na ryzyko kredytowe.
+** w tym również rezerwy na ryzyko prawne walutowych kredytów mieszkaniowych – z wyjątkiem banków, które wykazały je łącznie z odpisami na ryzyko kredytowe.
+*** General administrative expenses (less tax on certain financial institutions) and depreciation
+**** including provisions for legal risk of FX housing loans – except for banks which recognised them jointly with the provisions for credit risk.
+*Dane dla analizowanych 28 banków.
+*Data for 28 banks analysed at the beginning and the end of the simulation period.
+0,1-0,2
+0,2-0,3
+0,3-0,4
+0,4-0,5
+0,5-0,6
+0,6-0,7
+0,7-0,8
+03-2009
+03-2010
+03-2011
+03-2012
+03-2013
+03-2014
+03-2015
+03-2021
+06-2009
+06-2010
+06-2011
+06-2012
+06-2013
+06-2014
+06-2021
+06-2022
+06-2023 - dane historyczne
+06-2023 - historical data
+06-2024 - dane historyczne
+06-2024 - historical data
+06-2024*
+09-2009
+09-2010
+09-2011
+09-2012
+09-2013
+09-2014
+09-2020
+1 Jul 2020 = 100
+1 lipca 2020 = 100
+1-2013
+1-2014
+1. kwartyl
+10 cities
+10 cities PM
+10 cities SM
+10 cities av.
+10 cities av. wage ind.
+10 cities av.weighted with dwellings stock
+10 miast
+10 miast RP
+10 miast RW
+10 miast nom.RP
+10 miast nom.RW
+10 miast real.RP
+10 miast real.RW
+10 miast śr.waż.zasobem
+10 największych kontrahentów
+10 największych kontrahentów (bez instrumentów finansowych i finansowania wewnątrzgrupowego)
+10 percentile
+10 percentyl
+10-2012
+10-2013
+10.cities PM nom.
+10.cities PM real.
+10.cities nom. SM
+10.cities real. SM
+100-150%
+10M
+10M ind.WYN
+11-2012
+11-2013
+12-2000
+12-2009
+12-2010
+12-2011
+12-2012
+12-2013
+12-2014
+12-2015
+12-2016
+12-2017
+12-2018
+12-2019
+12-2020
+12-2021
+12-2022
+12-2023
+12-2023 - adverse scenario
+12-2023 - reference scenario
+12-2023 - scenariusz referencyjny
+12-2023 - scenariusz szokowy
+12-2024
+12-2024 - adverse scenario
+12-2024 - reference scenario
+12-2024 - scenariusz referencyjny
+12-2024 - scenariusz szokowy
+12-2025 - adverse scenario
+12-2025 - reference scenario
+12-2025 - scenariusz referencyjny
+12-2025 - scenariusz szokowy
+12-2026 - adverse scenario
+12-2026 - reference scenario
+12-2026 - scenariusz referencyjny
+12-2026 - scenariusz szokowy
+12-2027 - adverse scenario
+12-2027 - reference scenario
+12-2027 - scenariusz referencyjny
+12-2027 - scenariusz szokowy
+150-200%
+181 days-1 year
+181 dni-1 rok
+1999-12-01 00:00:00
+1Q2020
+1Q2021
+1Q2022
+1Q2023
+1Q2024
+1Q2025
+1st quartile
+2-2012
+2-2013
+2-2014
+250-300%
+2Q2020
+2Q2021
+2Q2022
+2Q2023
+2Q2024
+2Q2025
+3-2010
+3-2011
+3-2012
+3-2013
+3-2014
+3-2015
+3-2016
+3-2017
+3-2018
+3-2019
+3-2020
+3-2021
+3-2022
+3-2023
+3-2024
+3-2025
+3. kwartyl
+30 percentile
+30 percentyl
+31-90 days
+31-90 dni
+3Q2020
+3Q2021
+3Q2023
+3Q2024
+3rd quartile
+4-2012
+4-2013
+4-6 thousand
+4-6 tys.
+4Q2020
+4Q2021
+4Q2023
+4Q2024
+5-2012
+5-2013
+6 cities PM
+6 cities SM
+6 cities av.
+6 cities av. wage ind.
+6 cities av.weighted with dwellings stock
+6 miast RP
+6 miast RW
+6 miast śr.waż.zasobem
+6-2010
+6-2011
+6-2012
+6-2013
+6-2014
+6-2015
+6-2016
+6-2017
+6-2018
+6-2019
+6-2020
+6-2021
+6-2021 - dane historyczne
+6-2021 - historical data
+6-2022
+6-2022 - dane historyczne
+6-2022 - historical data
+6-2023
+6-2024
+6-2024*
+6-2025
+6-2025 - dane historyczne
+6-2025 - historical data
+6-2025*
+6-8 thousand
+6-8 tys.
+60 percentile
+60 percentyl
+60% of indications of individual factors - bottom
+60% of indications of individual factors - top
+60% wskazań poszczególny wskaźników - dół
+60% wskazań poszczególny wskaźników - góra
+6M ind.WYN
+7-2012
+7-2013
+7C nominal PM
+7C nominal SM
+7C real PM DCPI
+7C real PM DW
+7C real SM DCPI
+7C real SM DW
+7M nominalnie RP
+7M nominalnie RW
+7M realnie RP DCPI
+7M realnie RP DW
+7M realnie RW DCPI
+7M realnie RW DW
+8-10 thousand
+8-10 tys.
+8-2012
+8-2013
+8-2022
+8-2023
+9-2010
+9-2011
+9-2012
+9-2013
+9-2014
+9-2015
+9-2016
+9-2017
+9-2018
+9-2019
+9-2020
+9-2021
+9-2022
+9-2023
+9-2024
+9-2025
+90 percentile
+90 percentyl
+90% of indications of individual factors - bottom
+90% of indications of individual factors - top
+90% wskazań poszczególny wskaźników - dół
+90% wskazań poszczególny wskaźników - góra
+91-180 days
+91-180 dni
+<-1,5%
+<-1.5%
+<1,5%)
+<= 0,1
+=< 1 miesiąca
+=< 1 month
+> 0,8
+> 1 lat =< 5 lat
+> 1 miesiąca =< 3 miesięcy
+> 1 month =< 3 months
+> 1 rok
+> 1 year
+> 1 year =< 5 years
+> 3 miesięcy =< 1 roku
+> 3 months =< 1 year
+> 5 lat
+> 5 years
+>3%
+>6%
+AC brutto
+Accumulated other comprehensive income
+Accumulated other comprehensive income (AOCI)
+Accumulated other comprehensive income (AOCI) 
+[PLN billion]
+Accumulated other comprehensive income (AOCI) 
+[PLN bn]
+Accumulated other comprehensive income (AOCI) after adjusting for the prudential filter
+Actual DSTI 
+(30% above average income)
+Actual DSTI (average income)
+Administrative expenses and depreciation
+Aggregate forecast
+Agriculture sector
+Akcje
+Akcje i udziały
+Akcje notowane
+Akcje notowane (mld zł)
+Akrtywa
+Aktualna
+Aktywa
+Aktywa [mld zł]
+Aktywa bieżące
+Aktywa finansowe (z minusem)
+Aktywa i zwrot z aktywów sektora bankowego w Polsce
+Aktywa netto
+Aktywa/PKB
+All capital ratios required in Pillar 1
+All capital ratios required in Pillar 1 and Pillar 2
+All capital ratios required in Pillar 1, Pillar 2 and required capital buffers (MDA pillow)
+All capital ratios required in Pillar 1, Pillar 2, MREL and combined buffer requirement (MDA pillow)
+Assessment of changes in the financial situation over the last 12 months
+Asset tax and CIT
+Assets
+Assets [PLN billion]
+Assets and return on assets of the banking sector in Poland
+Assets linked with banking sector/total assets
+Asstets
+Austria
+Auto Casco
+Average
+Average (asking and transaction) rental rates in selected groups of cities in Poland (PLN/sq.m.)
+Average (nominal values)
+Average acceptance rate of loan applications from enterprises
+Average cost of capital based on models
+Average cost of debt service in relation to wage
+Average cost of debt service in relation to wages
+Average cost of equity based on models
+Average nominal transaction prices in 7 largest Polish cities
+Average probability value
+Average transaction rental rate in nominal and real terms compared to wages in selected groups of cities in Poland (PLN/sq. m)
+BS [mld zł]
+Balance sheet change (m/m)
+ [PLN billion]
+Balance sheet growth rate (y/y), (RHS)
+[%]
+Bank centralny
+Bank interest rates - loans to corporations
+Bank interest rates - loans to households for consumption
+Bank interest rates - loans to households for house purchase
+Banki
+Banki centralne
+Banki komercyjne
+Banki komercyjne - CET1
+[indeks 12-2014=100]
+Banki komercyjne - TREA 
+[indeks 12-2014=100]
+Banki komercyjne - współczynnik kapitału CET1
+Banki krajowe
+Banki spółdzielcze
+Banki spółdzielcze - CET1
+[indeks 12-2014=100]
+Banki spółdzielcze - TREA 
+[indeks 12-2014=100]
+Banki spółdzielcze - współczynnik kapitału CET1
+Banki zagraniczne
+Banking sector
+Banking sector credit exposures to climate policy relevant sectors
+Banks
+Base effect
+Belgia
+Belgium
+Bez określonego terminu
+Bezrobocie
+Bieżące
+Bieżące depozyty
+Biura
+Bond portfolio amount
+Bond portfolio amount (bn PLN)
+Bonds volatility
+Bony NBP 
+[mld zł]
+Bony NBP (mld zł)
+Bony NBP [mld zł]
+Bony pieniężne NBP
+Bony pieniężne NBP oraz papiery dłużne SP i gwarantowane przez SP w aktywach sektora bankowego
+Bony pieniężne NBP oraz papiery dłużne SP w aktywach krajowych banków komercyjnych
+Book Value
+Branches 
+[PLN billion]
+Buffer
+Bufor
+Bufory kapitałowe w bankach UE
+Building heating
+Bulgaria
+Business Confidence Indicator
+Business Confidence Indicator and Eurozone Manufacturing Purchasing Managers Index
+Business confidence index
+Bułgaria
+Błąd szacunku
+CBR-M shorfall
+CBR-M surplus
+CET1 surplus after 
+Pillar 1 + Pillar 2 + CBR
+CET1 surplus after 
+Pillar 1 + Pillar 2 + MREL + CBR-M
+CET1 surplus after fulfilling selected capital requirements [PLN bn]
+CET1 surplus after fulfilling selected capital requirements, PLN billion
+CET1 surplus covering MREL RCA
+CET1 surplus covering MREL-RCA
+CET1 surplus/TREA
+CHF
+CIT
+CIT and tax on assets
+CIT i podatek od aktywów
+COR Gross
+COR Net
+COR brutto
+COR netto
+CRE faza 2
+CRE faza 3
+CRE loan ratio in Stages 2 and 3
+CRE stage 2
+CRE stage 3
+CRISK
+CRISK (all financial institutions, PLN mln)
+CRISK (financial institutions with positive CRISK, PLN mln)
+CZK
+Calibration of LtV and DSTI limits in Poland compared to the EU
+Capital buffers in EU banks
+Capital instruments eligible as CET1
+Capital requirements for credit risk
+Capital requirements for market risk
+Capital requirements for operational risk
+Capital requirements for other risk
+Cash
+Cash and deposits
+Cash and deposits (PLN billion)
+Cement production
+Central Bank
+Central banks
+Ceny transakcyjne mieszkań na rynku pierwotnym (RP) i wtórnym (RW) w Polsce (zł/m2)
+Ceny transakcyjne nominalne mieszkań na rynku pierwotnym (RP) i wtórnym (RW) w Warszawie, 6 i 10 miastach (zł/mkw.)
+Certificate of Deposit
+Certificates of Deposit   
+[PLN billion]
+Certyfikaty Depozytowe
+Certyfikaty Depozytowe 
+[mld zł]
+Change in banking sector's net earnings in the period from January to September 2025 compared to the corresponding period in 2024 and the decomposition of the change [PLN billion]
+Change in banks' main funding sources (y/y)
+Change in cyclical risk intensity q/q
+Change in net earnings of the banking sector and decomposition of the change – year-to-date amounts (left-hand panel) and 12 month flows (right-hand panel) until August 2022 [PLN billion]
+Change in provisions
+Change in unemployment rate between 2021Q1 and 2020Q1 (p.p., sa)
+Change of total risk exposure
+Changes in Common Equity Tier 1 capital ratio components
+Changes in the common equity Tier 1 capital ratio components
+Changes in the value housing loans
+Changes in the value of housing loans on the balance sheet of the banking sector
+Charges to credit risk provisions
+Charges to legal risk provisions
+Chemical industry
+China
+Chiny
+Chorwacja
+Claims / premiums
+Claims paid
+Class 8
+Class 9
+Climate shock impact on finanancial institutions' equity
+Closed-end AIFs
+Closed-end funds
+Closed-ended  funds (PLN billion)
+Closed-ended funds
+Closed-ended funds (PLN billion)
+Coal, oil and gas mining and processing
+Collateral stretch (CHANGES)
+Collateral stretch (DYNAMIKI)
+Collateral stretch (LEVELS)
+Collateral stretch (POZIOMY)
+Collateral stretch (changes)
+Collateral stretch (levels)
+Combined buffer requirement
+Combined buffer requirement - 2020-12
+Combined buffer requirement - 2021-6
+Combined buffer requirement and MREL requirement
+Commercial banks
+Commercial banks - CET1
+[index 12-2014=100]
+Commercial banks - TREA
+[index 12-2014=100]
+Commercial banks - common equity Tier I capital ratio
+Commercial banks’ credit exposure to climate policy relevant sectors
+Common equity Tier 1 
+capital ratio
+Common equity Tier 1 capital ratio and changes of its components
+Common equity Tier I capital 
+[index 6-2014=100]
+Common equity tier I capital ratio
+Comparison of the 2022 and 2023 GDP growth projections for the euro area and Germany
+Comparison of the amounts of corporate deposits and loans
+Components of RoE
+Composite leading indicator
+Concentration of funding by counterparty
+Construction sector
+Consumer
+Consumer confidence index
+Consumer loans
+Consumer loans (PLN billion)
+Consumer loans [PLN billion]
+Consumption
+Consumption loans
+Contribution of individual components
+Contribution of individual components to deposit growth
+Contribution of main components
+Contributions to DGS and resolution funds
+CoopB 
+[PLN billion]
+Cooperative banks
+Cooperative banks - CET1
+[index 12-2014=100]
+Cooperative banks - TREA
+[index 12-2014=100]
+Cooperative banks - common equity Tier I capital ratio
+Corporate deposits
+Corporate deposits [PLN billion]
+Corporate loans
+Corporate loans (PLN billion)
+Corporate loans [PLN billion]
+Corporate loans, total
+Corporates
+Cost of equity against return on equity (ROE) in 2008-2025
+Countries
+Country
+Coverage of impaired loans by provisions in loans to the non-financial sector
+Covered Bonds [PLN billion]
+Covered bonds
+Credit Risk
+Credit and Treasury bonds in banks' portfolios
+Credit and suretyship
+Credit contribution
+Credit demand
+Credit gap and average interest rates on new bank loans in the euro area
+Credit growth forecast for the non-financial sector - September 2021
+Credit loses [PLN billion]
+Credit loses to bank assets
+Credit losses
+Credit losses in cooperative banks in semi-annual periods
+Credit market
+Credit risk 
+exposure amount
+Credit risk exposure
+Credit spread shock and  other own funds' adjustments
+Credit supply
+Credit y/y (dev. from mean)
+Credit-to-GDP gap
+Credit/GDP y/y
+Credit/GDP y/y (dev. from  mean)
+Credit/Treasury bonds
+Croatia
+Cumulated rise in salaries (in real terms)
+Cumulative change in credit to GDP – explained component
+Currency in circulation (daily cumulative changes) [PLN billion]
+Currency in circulation: daily cumulative changes
+Currency volatility
+Current
+Current assets
+Current deposits
+Current liabilities
+Cut-off threshold (1:3)
+Cyclical risk intensity
+Cypr
+Cyprus
+Czas wyprzedaży oferty, liczba mieszkań wprowadzanych na pierwotny rynek, sprzedanych i znajdujących się w ofercie na sześciu największych rynkach Polski
+Czas wyprzedaży zasobu w kwartałach
+Czas wyprzedaży zasobu w kwartałach (P.oś)
+Czech Republic
+Czechia
+Czechy
+Czynniki determinujące wzrost rentowności kapitału w sektorze bankowym UE: grudzień 2021- czerwiec 2023
+Czynniki determinujące zmianę rentowności kapitału własnego
+Czynniki wpływające na zmianę dostępności kredytu
+DCB 
+[PLN billion]
+DSR
+DSTI
+DTI implied by the requirements in the creditworthiness assessment and the actual DSTI for a given 3-person household with an average income and 30% above average income
+DTI implikowane wymogami w badaniu zdolności kredytowej oraz faktyczne DSTI dla przykładowego 3-os. gospodarstwa domowego z dochodem na poziomie przeciętnym i 30% powyżej przeciętnej.
+Dane historyczne
+Dane historyczne i prognoza wskaźnika napływu netto należności z utratą wartości
+Dania
+Data
+Data/Date
+Date
+Debt funds
+Debt instrument issues [PLN billion]
+Debt instruments
+Debt instruments issued by banks in investment funds assets (PLN billion)
+Debt instruments issued by domestic non-financial corporations in investment funds assets (PLN billion)
+Debt securities
+Debt securities (PLN billion)
+Debt structure of debt instruments issued (domestic vs. foreign)
+Deciles
+Declared actions taken by households as a result of the COVID-19 pandemic
+Decomposition of changes in cyclical risk intensity readings
+Decomposition of the growth rate of loans to large enterprises into demand and supply factors
+Decyle
+Deficit
+Deficyt
+Deklarowane przez gospodarstwa domowe działania podjęte w wyniku pandemii COVID-19
+Dekompozycja dynamiki kredytu dla dużych przedsiębiorstw na czynniki pochodzenia popytowego i podażowego
+Dekompozycja zmian odczytu natężenia ryzyka cyklicznego
+Denmark
+Denominator: Total risk exposure ammount
+Deposits
+Deposits  (RHS)
+[PLN billion]
+Deposits (PLN billion)
+Deposits - growth rate y/y
+Deposits and loans of the non-financial sector (12-2010 = 100)
+Deposits growth rate, y/y
+Deposits growth rate, y/y (rhs)
+Deposits in PLN
+Deposits in foreign currency
+Deposits minus Loans (LHS)
+[PLN billion]
+Deposits-loans 
+[PLN million]
+Deposits-loans (PLN million)
+Deposits-loans [PLN million]
+Depozyty
+Depozyty (mld zł)
+Depozyty (oś P) 
+[mld zł]
+Depozyty - dynamika r/r
+Depozyty bieżące
+Depozyty gospodarstw domowych
+Depozyty gospodarstw domowych [mld zł]
+Depozyty i kredyty sektora niefinansowego (12-2010 = 100)
+Depozyty i środki pieniężne
+Depozyty i środki pieniężne (mld zł)
+Depozyty minus kredyty (oś L) 
+[mld zł]
+Depozyty przedsiębiorstw
+Depozyty przedsiębiorstw [mld zł]
+Depozyty terminowe
+Depozyty walutowe
+Depozyty złotowe
+Depozyty-kredyty (mln zł)
+Depozyty-kredyty [mln zł]
+Derivatives
+Dezpozyty przedsiębiorstw
+Difference between WIBOR3M and IRS5Y
+Distributed dividend
+Distribution by income of new loans with high DSTI at origination (above 50%) granted in the period from January 2022 to June 2024.
+Distribution of CET1 surpluses after fulfilling Pillar I, Pillar 2 and combined buffer requirements [share of banks with given CET1 surplus in sector's total assets]
+Distribution of NIM for the banking sectors of EU countries
+Distribution of ROE for the banking sectors of EU countries
+Distribution of assets of the analysed commercial banks according to excess CET1 capital after meeting the requirements in different prudential regulation frameworks
+Distribution of assets of the analysed commercial banks according to excess Common Equity Tier 1 capital after meeting the requirements aplicable in different prudential regulation frameworks
+Distribution of assets of the analysed commercial banks by excess of Common Equity Tier 1 after the fulfilment of Pillar 1 and Pillar 2 requirements, MREL and the combined buffer requirement*
+Distribution of assets of the analysed commercial banks by excess of Common Equity Tier 1 after the fulfilment of Pillar 1 and Pillar 2 requirements and the combined buffer requirement
+Distribution of disposable income by income decile
+Distribution of domestic commercial banks' assets by LCR levels
+Distribution of household indebtedness (by index) according to the scale of burden and timely repayments
+Distribution of household indebtedness (by index) by type of loan
+Distribution of liquidity ratio and financial leverage artion in UCITS as of end of June 2025
+Distribution of liquidity ratio and financial leverage artion in open-ended AFIs as of end of June 2025
+Distribution of liquidity ratio for open-ended  funds
+Distribution of liquidity ratio for open-ended investment funds
+Distribution of liquidity ratio in open-ended  funds
+Distribution of sensitivity of banks' net interest income to the fall in interest rates in the SOT NII test
+Distribution of sensitivity of the economic value of banks' equity to the increase in interest rates in the SOT EVE test
+Distribution of the financial situation of indebted households (by index) in 2019 - 2020
+Distribution of the share of floating-rate loans in EU countries, 2010-2023
+Dividend income
+Do 1 dnia
+Do 1 miesiąca
+Do 1 roku
+Do 1 tygodnia
+Do 2 lat
+Do 3 miesięcy
+Do 5 lat
+Do 6 miesięcy
+Docelowy MREL 
+- stan na 12-22/Final MREL 
+- as of 12-22
+Docelowy MREL 
+- stan na 6-23
+/Final MREL 
+- as of 6-23
+Dochody
+Domestic
+Domestic NFCs
+Domestic banks
+Domestic banks' share
+Domestic commercial banks
+Domestic non-financial corporations' debt instruments in investment funds assets
+Dostępność kredytowa mieszkań na rynku pierwotnym dla różnych gospodarstw do-mowych (m2)
+Drugi kwartyl
+Dsight deposits
+Duration
+Duration (bn PLN)
+Duration (mld zł)
+Duration and share of State Tresury and State Treasury-guaranteed bonds and variable rate bonds
+Duration and share of State Tresury and State Treasury-guarnteed bonds market portfolio
+Duration oraz udział portfela obligacji skarbowych i gwarantowanych przez SP wycenianego rynkowo
+Duration oraz udział portfela obligacji skarbowych i gwarantowanych przez SP wycenianego rynkowo oraz obligacji zmiennokuponowych
+Duże przedsiębiorstwa
+Dwellings put up for sale in the primary mar-ket, sold and remaining on offer in the six largest markets in Poland and the selling time of the offer
+Dynamika (r/r)
+Dynamika depozytów r/r
+Dynamika depozytów r/r (prawa oś)
+Dynamika dla sektora  r/r
+Dynamika kredytu
+Dynamika kredytu dla sektora niefinansowego, r/r
+Dynamika kredytów dla gospodarstw domowych oraz wkład jej głównych składowych, r/r
+Dynamika kredytów dla sektora przedsiębiorstw niefinansowych oraz wkład jej głównych składowych, r/r
+Dynamika kredytów dla sektora przedsiębiorstw oraz wkład głównych składowych, r/r
+Dynamika kredytów dla sektora przedsiębiorstw oraz wkład głównych składowych, r/r (%)
+Dynamika kredytów dla sektora przedsiębiorstw, r/r
+Dynamika nominalna i realna cen transakcyjnych mieszkań na rynku pierwotnym (RP) i wtórnym (RW) w Warszawie i 10. miastach (zł/m2)
+Dynamika r/r i zmiany m/m wartości kredytów mieszkaniowych w bilansie sektora bankowego
+Dynamika składowych współczynnika kapitału podstawowego Tier I
+Dynamika składowych współczynnika kapitału podstawowego Tier I
+Dynamika stanu bilansowego (r/r), (oś P)
+[%]
+Dział II
+Długoterminowa średnia
+Dłużne papiery wartościowe
+Dłużne papiery wartościowe (mld zł)
+Dźwignia finansowa
+EBA Risk Dashboard 2Q2021
+EU14
+EUR
+Earned premium
+Earned premiums, claims and excess funds (PLN billion)
+Earned premiums, claims, expenses and excess funds in the half-year period (PLN billion)
+Earnings before   risk charges and tax
+Economic risk
+Efekt bazy
+Efekt niewyjaśniony
+Efektywna stopa CIT i podatku od aktywów w bankach
+Effect on ROA
+Effect on ROA – lower bound
+Effect on ROA – upper bound
+Effect on asset volume
+Effect on asset volume – lower bound
+Effect on asset volume – upper bound
+Effect on credit volume
+Effect on credit volume – lower bound
+Effect on credit volume – upper bound
+Effect on government bond volume
+Effect on government bond volume – lower bound
+Effect on government bond volume – upper bound
+Effect on rate on deposits from households
+Effect on rate on deposits from households – lower bound
+Effect on rate on deposits from households – upper bound
+Effect on rate on deposits from non-financial corporations
+Effect on rate on deposits from non-financial corporations – lower bound
+Effect on rate on deposits from non-financial corporations – upper bound
+Effect on rate on loans for house purchases
+Effect on rate on loans for house purchases – lower bound
+Effect on rate on loans for house purchases – upper bound
+Effect on rate on loans to non-financial corporations
+Effect on rate on loans to non-financial corporations – lower bound
+Effect on rate on loans to non-financial corporations – upper bound
+Effect on rate on remaining loans to households
+Effect on rate on remaining loans to households – lower bound
+Effect on rate on remaining loans to households – upper bound
+Effective rate of CIT and tax on assets at banks
+Ekspozycja funduszy otwartych na krajowy sektor monetarnych instytucji finansowych
+Ekspozycja kredytowa banków komercyjnych na sektory istotne z punktu widzenia polityki klimatycznej
+Ekspozycja na ryzyko kredytowe
+Ekspozycja na ryzyko operacyjne
+Ekspozycja na ryzyko rynkowe i pozostałe rodzaje ryzyka
+Ekspozycje na kredyty mieszkaniowe w krajach UE
+Ekwiwalent wymogu kapitałowego z filara II (P2R)
+Ekwiwalent zalecenia kapitałowego z filara II (P2G)
+Electricity and utiliity sector
+Electricity and utility sector
+Electricity generation and heat production
+Eligible liabilities
+Eligible liabilities as a share of MREL RCA
+Eligible liabilities covering final MREL [PLN bn]
+Emisje gazów cieplarnianych w Polsce (wg branż) – dane na 2018 r.
+Emisje instrumentów dłużnych [mld zł]
+Emisje krajowe/Domestic markets
+Emisje zagraniczne/Foreign markets
+Employment cost
+End of month
+Energy-intensive sectors
+Equities
+Equities admitted to trading on trading venues (PLN billion)
+Equity funds
+Equity price changes
+Equity prices missalignments relative to fundamentals, standard deviations of monthly returns
+Equity volatility
+Error of estimate
+Estimated Return on Equity on an investment in an existing class B office building, LTC = 0% and 80%
+Estimated Return on Equity on an investment in the construction and commercialisation of a class A office building, LTC = 0% and 80%
+Estimated cost of capital of GPW-listed banks against profitability
+Estimated cost of capital of WSE-listed banks against their profitability
+Estimated demand for credit
+Estimated effects of the bank levy on bank asset volume
+Estimated effects of the bank levy on bank profitability
+Estimated effects of the bank levy on deposit rates
+Estimated effects of the bank levy on government bond and credit volumes in bank assets
+Estimated effects of the bank levy on loan rates
+Estimated share of CET1 surplus covering MREL, PLN billion
+Estimated supply of credit
+Estonia
+Euro Area
+Euro area
+European Union
+Eurostoxx BANKS
+Eurozone
+Eurozone manufacturing PMI
+Excess
+Excess and deficits of Common Equity Tier 1 capital after meeting regulatory requirements (PLN billion)
+Excess of Common Equity Tier 1 capital in domestic banking sector after meeting capital requirements and buffer requirements; PLN bn
+Excess of deposits over loans to the non-financial sector
+Excess of liquid assets [PLN billion]
+Excess of liquid assets at domestic commercial banks
+Excess of liquid assets in relation to assets
+Excess of liquid assets in relation to liabilities
+Excess of loans over deposits [PLN billion]
+Excess/shortage of liquid assets by significant currencies in commercial banks (PLN billion)
+Expenses
+Expenses / premiums
+Exposures to housing loans in EU countries
+FIO
+FIO 12-2020
+FIO 12-2021
+FIO 2Q2020
+FIO 2Q2021
+FIO 4Q2020
+FIO 6-2022
+FIZ
+FRA-implied expected WIBOR 1M rate
+FX forwards/futures and FX swaps
+Factors influencing change in credit availabil-ity
+Faktyczne DSTI (wynagrodzenie 30% pow. przeciętnej)
+Faktyczne DSTI (wynagrodzenie przeciętne)
+Farmenrs
+Farmers
+Faza 1
+Faza 2
+Faza 3
+Figure 2.33.  Sovereign-bank nexus index (left-hand panel)
+Filar I i II
+Filar I i II oraz MREL
+Filar I i II oraz MREL-RCA
+Filar I i II oraz wymóg połączonego bufora
+Filar I i II oraz wymóg połączonego bufora i P2G
+Filar I i II, MREL i wymóg połączonego bufora
+Filar I i II, MREL-RCA oraz wymóg połączonego bufora
+Financial assets
+Financial leverage ratio
+Financial liabilities
+Financial loss
+Financial result - right axis
+Financial sector
+Financial sector [PLN billion]
+Finland
+Finlandia
+Fire & Property
+First quartile
+Fixed-term deposits
+Flats, houses
+Forecast
+Foreign
+Foreign Institutions
+Foreign currency
+Foreign currency loans  - growth rate (y/y)
+Foreign currency loans m/m
+Foreign currency loans m/m (PLN billion)
+Foreign currency loans m/m [PLN billion]
+Foreign entities
+Foreign investors
+Forward i futures walutowe oraz swapy walutowe (FX swap)
+Fossil fuel sector
+France
+Francja
+Fuels in agriculture
+Funding stretch (CHANGES)
+Funding stretch (DYNAMIKI)
+Funding stretch (LEVELS)
+Funding stretch (POZIOMY)
+Funding stretch (changes)
+Funding stretch (levels)
+Funds for general banking risk
+Fundusze 
+akcji
+Fundusze 
+dłużne
+Fundusze akcji
+Fundusze dłużne
+Fundusze emerytalne
+Fundusze inwestycyjne
+Fundusze mieszane
+Fundusze ogólnego ryzyka bankowego
+Fundusze ogółem
+Fundusze ogółem - średnia
+Fundusze otwarte
+Fundusze otwarte (mld zł)
+Fundusze otwarte - udział w aktywach ogółem
+Fundusze otwarte ogółem
+Fundusze pozostałe
+Fundusze własne
+Fundusze własne i współczynniki wypłacalności
+Fundusze zamknięte
+Fundusze zamknięte (mld zł)
+Fundusze zamknięte - udział w aktywach ogółem
+GD niezadłużone
+Not indebted HH
+GD zadłużone
+Indebted HH
+GD1
+GDP deflator contribution
+General administrative expenses***
+General government
+General government sector
+General liability
+General, economic decomponsition of credit growth
+General, economic decomposition of changes in credit-to-GDP ratio
+General, economic decomposition of cumulative change in credit-to-GDP ratio
+Germany
+Global variables
+Gospodarstwa domowe
+Gospodarstwa domowe/Households
+Gotówka
+Government and local government sector
+Government debt securities
+Government debt securities (PLN billion)
+Government securities
+Gr 8
+Gr 8 brutto
+Gr 9
+Gr 9 brutto
+Granted loans
+Grecja
+Greece
+Greenhouse gas emissions in Poland (by industry) – data for 2018.
+Groups of countries by the share of floating-rate loans
+Groups of countries by the share of floating-rate loans granted in 2023
+Growth rate (y/y)
+Growth rate (y/y) and changes (m/m) [PLN billion] in the value of housing loans on the balance sheet of the banking sector
+Growth rate (y/y) and changes (m/m) in the value of housing loans on the balance sheet of the banking sector
+Growth rate of corporate loans and contribution of its main components, y/y
+Growth rate of deposits (y/y) and contribution of individual components to deposit growth of the households (left-hand panel) and the corporates (right-hand panel) - currency structure
+Growth rate of deposits of the households and contribution of individual components to deposit growth (y/y)
+Growth rate of households deposits (y/y) and contribution of individual components
+Growth rate of loans
+Growth rate of loans non-financial corporations and contribution of its main components, y/y
+Growth rate of loans to households and contribution of its main components, y/y
+Growth rate of loans to the corporate sector and contribution of main components, y/y
+Growth rate of loans to the corporate sector and contribution of main components, y/y (%)
+Growth rate of loans to the corporate sector, y/y
+Growth rate of loans to the non-financial sector, y/y
+Growth rate of non-financial sector deposits (y/y) and contribution of individual components to deposit growth
+Growth rate of selected categories of loans for the non-financial sector, y/y
+Growth rate of selected categories of loans to the non-financial sector, y/y
+Grupy krajów wg udziału kredytów o zmiennej stopie
+Grupy krajów wg udziału kredytów o zmiennej stopie udzielonych w 2023
+Guaranteed deposits
+Główne przyczyny niskich strat kredytowych w I półroczu 2021 r. – według liczby banków i ich udziału w portfelach kredytowych ankietowanej grupy banków
+Główne składniki funduszy własnych i współczynniki kapitałowe
+Handel i usługi
+Handel-usługi
+Handlowe
+High quality liquid assets ratio (%)
+High quality liquid assets ratio (average), %
+High quality liquid assets ratio in UCITS
+High quality liquid assets ratio in open-ended AIFs
+High quality liquidity ratio (average) - right axis
+High quality liquidity ratio - right axis
+High reversal of provisions created in 2020
+Hipoteczne dla GD
+Historical data
+Historical data and forecast of the net inflow ratio of impaired loans
+Hiszpania
+Holandia
+Household deposits
+Household deposits  [PLN billion]
+Household stretch (CHANGES)
+Household stretch (DYNAMIKI)
+Household stretch (LEVELS)
+Household stretch (POZIOMY)
+Household stretch (changes)
+Household stretch (levels)
+Households
+Houses
+Housing
+Housing loans
+Housing loans (denominated in PLN)
+Housing loans [PLN billion]
+Housing loans to GDP
+Housing loans/Assets
+Housing loans/GDP
+Housing rents in Poland (PLN/sq.m.)
+Hungary
+Hutnictwo
+I kw. 2008
+I kw. 2009
+I kw. 2010
+I kw. 2011
+I kw. 2012
+I kw. 2013
+I kw. 2014
+I połowa 2021
+IFMC
+II kw. 2008
+II kw. 2009
+II kw. 2010
+II kw. 2011
+II kw. 2012
+II kw. 2013
+III kw. 2008
+III kw. 2009
+III kw. 2010
+III kw. 2011
+III kw. 2012
+III kw. 2013
+IMF
+IMF Global Financial Stability Report, 10.2021
+IMF's GDP forecast for 2023 and 2024
+IRS and CIRS
+IRS i CIRS
+IRS5Y
+IRS5Y - reference
+IRS5Y - referencyjna
+IV kw. 2008
+IV kw. 2009
+IV kw. 2010
+IV kw. 2011
+IV kw. 2012
+IV kw. 2013
+Impaired loan ratio across sectors
+Impaired loan ratios (Stage 3) and shares of Stage 2 loans in PLN, EUR and CHF housing loans
+Impaired loans
+Impairment of nonfinancial assets and investments
+Impairments (credit risk lossess) / Equity
+Implied DTI 
+(30% above average income)
+Implied DTI (average income)
+Implikowane DTI (wynagrodzenie 30% pow. przeciętnej)
+Implikowane DTI (wynagrodzenie przeciętne)
+Income
+Indebted
+Indeks
+Indeks Sovereign-bank nexus (prawy panel)
+Indeks dla zmiennych nominalnych
+Indeks dynamiki cen mieszkań (transakcyjnych, nominalnych oraz deflowanych (CPI (DCPI) i wynagrodzeniami (DW)) na rynku pierwotnym (RP) i wtórnym (RW) w 7 miastach (II kw. 2025=100)
+Indeks dynamiki cen mieszkań transakcyjnych, nominalnych oraz deflowanych (CPI i wynagrodzeniami) na rynku pierwotnym (RP) i wtórnym (RW) w 7 miastach (II kw. 2024=100)
+Indeks napięć na rynku nieruchomości mieszkaniowych
+Indeks napięć w obszarze sytuacji gospodarstw domowych
+Indeks napięć związanych z nieruchomościami mieszkaniowymi
+Indeks realnych (względem dynamiki wynagrodzeń) cen mieszkań w 7 największych miastach w Polsce
+(100 = średnia cena na rynku wtórnym w 2013 r.)
+Indeks ryzyka na globalnych rynkach finansowych
+Indeks sovereign-bank nexus
+Index
+Index (nominal value)
+Index of transactional, nominal and CPI (DCPI) and wage (DW) deflated house prices in the primary (PM) and secondary (SM) markets in 7 cities (2025 Q4 =100)
+Index of transactional, nominal and CPI and wage-deflated home prices in the primary (RP) and secondary (RW) markets in 7 cities (Q2 2024 =100).
+India
+Indications of early warning models for Poland
+Indie
+Individual enterpreneurs
+Inflows and outflows in open-ended funds (PLN billion)
+Inflows and outflows to/from open-ended investment funds (PLN billion)
+Inne
+Inne [mld zł]
+Inne dla GD
+Inne kredyty dla GD
+Inne nieruchomości
+Inne obligacje
+Inne obligacje [mld zł]
+Inne podmioty krajowe
+Instrumenty dłużne
+Instrumenty kapitałowe CET1
+Instrumenty pochodne
+Instytucje zagraniczne
+Insurance companies
+Interdecile range
+Interest cost
+Interest expense
+Interest expense/assets
+Interest income
+Interest income and expense in relation to average assets of the banking sector
+Interest income and interest cost in relation to assets vs. WIBOR rate
+Interest income/assets
+Interest rate
+Interest rate on new agreements
+Interest rate on new housing loans
+Interest rate on sight deposits
+Interest rate on termdeposits
+Interest rate shock/Own funds
+Interquartile range
+Investment funds
+Investment funds' exposure to debt securities of domestic non-financial corporations (PLN billion)
+Investment funds' share in domestic debt securities market
+Investment funds' shares
+Investment funds' shares (PLN billion)
+Investment grade, Europe
+Investment grade, USA
+Investment loans
+Investment structure of insurance sector (PLN billion)
+Investments - life insurance sector  (PLN billion)
+Investments and unit-linked assets - life insurance sector (PLN billion)
+Investments profits
+Investments – non-life insurance sector (PLN billion)
+Inwestorzy zagraniczni
+Ireland
+Irlandia
+Italy
+Japan
+Japonia
+Joint interest rate and credit risk shock/Own funds
+KBK [mld zł]
+Kalibracja limitów DSTI oraz LTV w Polsce na tle UE
+Kapitał Tier I 
+[mld zł]
+Kapitał Tier I (mld PLN)
+Kapitał Tier I [mld PLN]
+Kapitał Tier II 
+[mld zł]
+Kapitał Tier II (mld PLN)
+Kapitał Tier II [mld PLN]
+Kapitał podstawowy Tier I 
+[indeks 6-2014=100]
+Kapitał rezerwowy
+Kapitały
+Katowice
+Komponent niewyjaśniony
+Koncentracja finansowania według kontrahen-ta
+Koncentracja finansowania według kontrahenta
+Koniec miesiaca
+Konsumpcyjne
+Konsumpcyjne  [mld zł]
+Koszt kapitału na tle rentowności 
+kapitału własnego (ROE) w latach 2008-2025
+Koszty
+Koszty / składka
+Koszty działalności
+Koszty działania 
+banku i amortyzacja
+Koszty ods/aktywa
+Koszty odsetkowe
+Koszty ogólnego zarządu*
+Koszty pracownicze
+Koszty pracownicze / kapitały
+Kraj
+Kraje
+Krajowe
+Krajowe banki komercyjne
+Kraków
+Kredyt dla sektora niefinansowego w relacji do PKB
+Kredyt dla sektora niefinansowego w relacji do PKB.
+Kredyt i obligacje SP w aktywach banków
+Kredyt r/r (odch. od średniej)
+Kredyt referncyjny
+Kredyt/PKB r/r
+Kredyt/PKB r/r (odch. od średniej)
+Kredyt/obligacje
+Kredyty
+Kredyty  [bln zł]
+Kredyty  [mld zł]
+Kredyty (oś P) 
+[mld zł]
+Kredyty dla przedsiębiorstw
+Kredyty dla przedsiębiorstw (KP)
+Kredyty dla przedsiębiorstw (w mld zł)
+Kredyty dla sektora niefinansowego
+Kredyty do aktywów
+Kredyty faza 3 [mld zł]
+Kredyty faza 3 do kapitału banków
+Kredyty konsumpcyjne
+Kredyty konsumpcyjne (KK)
+Kredyty konsumpcyjne (w mld zł)
+Kredyty mieszkaniowe
+Kredyty mieszkaniowe (KM)
+Kredyty mieszkaniowe (nominowane w złotych)
+Kredyty mieszkaniowe do GDP
+Kredyty mieszkaniowe/PKB
+Kredyty mieszkaniowe/aktywa
+Kredyty na nieruchomości komercyjne, mld zł
+Kredyty o charakterze bieżącym
+Kredyty o charakterze inwestycyjnym
+Kredyty ogółem ( dynamika r/r)
+Kredyty walutowe  - dynamika m/m
+Kredyty walutowe m/m
+Kredyty walutowe m/m (w mld zł)
+Kredyty walutowe m/m [mld zł]
+Kredyty ze stwierdzoną utratą wartości
+Kredyty złotowe - dynamika r/r
+Kredyty złotowe m/m
+Kredyty złotowe m/m (w mld zł)
+Kredyty złotowe m/m [mld zł]
+Kredyty-depozyty (sektor niefinansowy) [mln zł]
+Kwartał
+Kwotowy odpowiednik wymogów oraz zaleceń z filara II w polskim sektorze bankowym
+L oans (RHS)
+[PLN billion]
+LCR
+LR Gross
+LR Net
+LR brutto
+LR netto
+LTV
+Large Enterprises
+Large enterprises
+Latvia
+Lending policy
+Leverage framework
+Leverage ratio requirement (3%)
+Leverage requirement
+Lewy panel / Left panel
+Liabilities
+Liabilities and and financial leverage in the investment fund sector
+Liabilities arising from the issuance of debt securities
+Liabilities arising from the issuance of debt securities [PLN billion]
+Liabilities due to credits, loans and conditional transactions
+Liabilities to corporates
+Liabilities to households
+Liabilities towards enterprises
+Liabilities towards households
+Liczba banków
+Liczba banków o ujemnej zyskowności
+Liczba krajowych banków komercyjnych (lewy panel) i banków spółdzielczych (prawy 
+panel) o ujemnej zyskowności i ich udział w aktywach danej grupy banków
+Liczba m2
+Licznik: kapitał podstawowy Tier I
+Life insurance with profit participation
+Life insurance without unit-linked
+Life insurance*
+Liquidity ratio
+Liquidity ratio (average) - right axis
+Liquidity ratio - right axis
+Liquidity ratio of high quality assets (in %)
+Listed equities
+Listed equities (PLN billion)
+Listed shares (PLN billion)
+Listy zastawne
+Listy zastawne [mld zł]
+Lithuania
+Litwa
+Loan instalment to average wage
+Loan losses by semi-annual periods
+Loan losses in cooperative banks by semi-annual periods
+Loan losses in loans to non-financial sector
+Loan losses in loans to non-financial sector by semi-annual periods
+Loan losses to net loans ratio
+Loan losses/loans
+Loan portfolio
+Loan portfolio for non-financial sector compared to banking sector assets, impaired loans compared to bank capitals and credit losses compared to bank assets
+Loan service to income at origination and simulated at the end of 2024
+Loan-to-deposit ratio
+Loans
+Loans (annual rate of growth)
+Loans [PLN trillion]
+Loans for commercial real estate, PLN billion
+Loans for consumption
+Loans for consumption [PLN billion]
+Loans for households, total [%]
+Loans for the non-financial sector
+Loans granted in a given month
+[PLN billion]
+Loans on current account and working capital loans
+Loans stage 3 [PLN billion]
+Loans stage 3 to bank capitals
+Loans to assets
+Loans to entrepreneurs
+Loans to individual farmers
+Loans to non-finacial sector
+Loans to non-financial corporations, total [%]
+Loans to non-financial sector
+Loans to the non-financial sector
+Loans-deposits (non-financial sector) [PLN million]
+Lokaty i aktywa UFK – dział I (mld zł)
+Lokaty – dział II (mld zł)
+Long-term average
+Loss ratio (LR) and COR in non-life insurance sector
+Loss ratio in selected business lines of non-life insurance
+Low value of new provisions created in H1 2021
+Lublin
+Luka kapitałowa (Tylko instytucje z dodatnią luką, mln PLN)
+Luka kapitałowa z ryzyka klimatycznego (CRISK)
+Luka kapitałowa z ryzyka klimatycznego (Wszystkie instytucje, mln PLN)
+Luka kredytowa i przeciętne oprocentowanie kredytów w strefie euro
+Luka terminów przeszacowania w sektorze bankowym, mld zł
+Luka wskaźnika kredyt/PKB
+Luksemburg
+Luxembourg
+MFW
+MREL shortfall
+MREL surplus
+MSCI EM
+Macro variables
+Magazyny
+Magazyny przemysł
+Magazyny, przemysł
+Main components of regulatory capital and capital ratios
+Main drivers of growth in RoE in the EU banking sector: December 2021 - June 2023
+Main reasons of low credit losses in 2021 H1 – by number of banks and their share in loan portfolios of the group of banks surveyed
+Maksimum
+Maksymalny kredyt
+Maksymum
+Malta
+Margin
+Marked-to-market portfolio
+Market Value
+Market portfolio share
+Market portfolio share (bn PLN)
+Market risk and other risk exposure amount
+Market-based measure of undercapitalization of Polish banks and stock indices
+Marża
+Marża odsetkowa netto (NIM) banków komercyjnych i spółdzielczych
+Marża odsetkowa netto (NIM) banków na tle stopy NBP
+Maximum
+Maximum loan
+Mean
+Median
+Mediana
+Mediana / Median
+Metallurgy
+Mianownik: łączna ekspozycja na ryzyko
+Miesiąc
+Miesięczny wynik odsetkowy [mld zł]
+Mieszkania
+Mieszkania i domy
+Mieszkania wprowadzane na pierwotny ry-nek, sprzedane i znajdujące się w ofercie na sześciu największych rynkach Polski oraz czas wyprzedaży oferty mieszkań
+Mieszkaniowe
+Mieszkaniowe  [mld zł]
+Minimum
+Minimum Common Equity Tier 1 capital ratio ( Pillar 1 - 4.5%)
+Minimum leverage ratio requirement (3%)*
+Minimum-maximum
+Minium
+Minium-maksimum
+Mixed funds
+Modification gains and losses
+Month
+Monthly NII [PLN billion]
+Mortgage loans to households
+Motor vehicle liability
+MŚP
+NBP
+NBP Reference rate
+NBP bills
+NBP bills 
+[PLN billion]
+NBP bills (PLN billion)
+NBP bills [PLN billion]
+NBP bills and Treasury securities in assets of domestic commercial banks
+NBP bills and Treasury/Treasury-guaranteed securities in total assets of banking sector
+NBP bills, Treasury securities/guaranteed by the Treasury
+NBP reference rate
+NFC
+NFCI
+NIM (prawa oś) [%]
+NIM (rhs) [%]
+NMS[-PL]
+NSFR
+NSFR distribution of domestic commercial banks
+NTI and dividend income
+NTI i przychody z dywidend
+NaT
+Nabywcy listów zastawnych (sierpień 2023)
+Nadwyżka
+Nadwyżka CET1 ponad
+filar I + filar II + CBR
+Nadwyżka CET1 ponad filar I + filar II
+ + MREL + CBR-M
+Nadwyżka CET1 wykorzystywana na pokrycie MREL RCA
+Nadwyżka CET1 wykorzystywana na pokrycie MREL-RCA
+Nadwyżka CET1/TREA
+Nadwyżka depozytów nad kredytami dla sek-tora niefinansowego
+Nadwyżka depozytów nad kredytami dla sektora niefinansowego
+Nadwyżka kredytów nad depozytami [mld zł]
+Nadwyżka ponad
+filar I + filar II + CBR
+Nadwyżka ponad 
+filar I
+Nadwyżka ponad 
+filar I i filar II
+Nadwyżka ponad 
+min. wskaźnik dźwigni
+Nadwyżka ponad 
+min. wskaźnik dźwigni*
+Nadwyżka ponad 
+min. współczynnik CET1
+Nadwyżka w relacji do aktywów
+Nadwyżka w relacji do zobowiązań
+Nadwyżka środków płynnych [mld zł]
+Nadwyżka środków płynnych w krajowych bankach komercyjnych
+Nadwyżka/niedobór środków płynnych w walutach znaczących w krajowych bankach komercyjnych (mld zł)
+Nadwyżki CET1 ponad wybrane normy i wymogi kapitałowe [mld PLN]
+Nadwyżki CET1 ponad wybrane normy i wymogi kapitałowe, mld zł
+Nadwyżki MREL
+Nadwyżki i niedobory MREL oraz wymogu połączonego bufora ponad MREL [mld PLN]
+Nadwyżki kapitału podstawowego Tier I w krajowych bankach komercyjnych (lewy panel, mld zł) i bankach spółdzielczych (prawy panel, mld zł) po spełnieniu norm i buforów kapitałowych
+Nadwyżki kapitału podstawowego Tier I w krajowym sektorze bankowym po spełnieniu wymogów i buforów kapitałowych; mld PLN
+Nadwyżki po CBR-M
+Napływ netto środków do funduszy inwestycyjnych
+Napływ netto środków na rynek akcji
+Natężenie ryzyka cyklicznego
+Net Interest Margin (NIM) of commercial and cooperative banks
+Net assets value
+Net charges to credit risk provisions
+Net claims
+Net earned premium
+Net earning (data)
+Net earnings
+Net earnings (data)
+Net earnings (projection)
+Net earnings excluding the result of EGM of PKO BP
+Net earnings of the analyzed group of banks (PLN billion)
+Net earnings of the analyzed group of banks [PLN billion]
+Net earnings until August (YTD) in respective years and ROA of the banking sector
+Net earnings until September (YTD) in respective years and ROA of the banking sector
+Net fee & commission income / equity
+Net fee and commission income
+Net gains on trading & valuation
+Net inflow of funds to investment funds
+Net inflow of funds to the stock market
+Net interest income
+Net interest income / equity
+Net interest income and net interest margin of the banking sector in Poland
+Net interest margin (NIM) of banks against the NBP reference rate
+Net trading income (incl. FV result) / equity
+Netherlands
+New housing loans to GDP
+New housing loans with high DSTI ratio
+New loans/wage bill
+Niderlandy
+Niedobory MREL
+Niedobory po CBR-M
+Niedobór
+Niemcy
+Niepowiązane
+Nieskarbowe papiery wartościowe
+Nieważność bez wynagrodzenia /
+Invalidity 
+without remuneration
+Nieważność z wynagrodzeniem /
+Invalidity 
+with remuneration
+Niezadłużone
+Niskie nowe odpisy w I p. 2021
+No stated maturity
+Nominal and real dynamics of  housing transaction prices on the primary (PM) and secondary (SM) markets in Warsaw and 10. cities (zloty/m2)
+Nominal home transaction prices in the prima-ry market (PM) and secondary market (SM) in Warsaw, 6 cities and 10 cities (PLN/sq. m)
+Nominal value in relation to NAV
+Nominal value of issued NBP bills  [PLN billion]
+Nominator: Common Equity Tier 1
+Nomnal Value
+Non -guaranteed deposits
+Non-Financial sector
+Non-Treasury securities
+Non-domestic banks
+Non-financial corporations sector
+Non-financial sector
+Non-life
+Non-life annuities (Motor insurance)
+Non-life insurance
+Non-related
+Non-residents' share
+Norma 
+współczynnika kapitału podstawowego Tier I z filara I (4,5%)
+Norma wskaźnika dźwigni (3%)*
+Normy kapitałowe z filara I
+Normy kapitałowe z filara I i filara II
+Normy kapitałowe z filara I i filara II - 2020-12
+Normy kapitałowe z filara I i filara II - 2021-6
+Normy kapitałowe z filara I, filara II i bufory kapitałowe
+Normy kapitałowe z filara I, filara II, MREL i wymóg połączonego bufora
+Norway
+Norwegia
+Not indebted
+Note: data without BGK.
+Notes: banks with high LCRs were excluded from the sample: for commercial banks – over 500%. The data do not include BGK and associated banks.
+Notes: excess/shortage of liquidity assets understood as an excess of liquidity assets under the condition that LCR=100%. The data do not include the BGK and associated banks.
+Nowe kredyty mieszkaniowe do GDP
+Nowe kredyty o wysokim początkowym DSTI
+Nowe kredyty/fundusz płac
+Nowo udzielone kredyty (w miesiącu) [mld zł]
+Number of banks
+Number of banks with negative profitability
+Number of domestic commercial banks (left-hand panel) and cooperative banks (right-hand panel) with negative profitability and their share in assets of the respective group of banks
+Number of domestic commercial banks (left-hand panel) and cooperative banks (right-hand panel) with negative profitability and their share in the assets of the respective group of banks
+O charakterze bieżącym
+O charakterze inwestycyjnym
+OC brutto
+OC ogólne
+OC samochodowe
+OECD
+OECD confidence indicators
+OIK [mld zł]
+Obligacje PFR i BGK anty COVID-19
+Obligacje PFR i BGK anty COVID-19 (mld zł)
+Obligacje PFR i BGK anty-COVID-19 (mld zł)
+Obligacje SPW
+Obligacje SPW i gwarantowane
+Obligacje i bony skarbowe
+Obligacje podporządkowane
+Obligacje podporządkowane [mld zł]
+Obligacje skarbowe i gwarantowane przez SP w aktywach sektora bankowego
+Ocena zmiany sytuacji finansowej w ciągu ostatnich 12 miesięcy
+Odchylenie wycen akcji od wartości fundamentalnych, odchylenia standardowe miesięcznych zwrotów
+Odpisy /
+Provisions
+Odpisy na inwestycje 
+i aktywa niefinan-
+sowe
+Odpisy na ryzyko
+kredytowe
+Odpisy na ryzyko 
+kredytowe
+Odpisy na ryzyko kredytowe
+Odpisy na ryzyko kredytowe / kapitały
+Odpisy na ryzyko prawne
+Odsetek kredytów dla przedsiębiorstw, opóźnionych w spłacie do 1 roku
+Odsetek kredytów opóźnionych w spłacie do 1 roku dla przedsiębiorstw
+Odsetek nowej akcji kredytowej (z wyłączeniem kredytów BK2%) z wysokim DSTI w momencie udzielenia (tj. powyżej 50%)
+Odsetek nowej akcji kredytowej (z wyłączeniem kredytów BK2%) z wysokim DTI w momencie udzielenia (tj. powyżej 6)
+Odsetek nowej akcji kredytowej z wysokim DSTI w momencie udzielenia (tj. powyżej 50%)
+Odsetek nowej akcji kredytowej z wysokim DTI w momencie udzielenia (tj. powyżej 6)
+Odstęp międzydecylowy
+Odstęp międzykwartylowy
+Odszkodowania / składka
+Odszkodowania wypłacone
+Oferta na koniec kwartału
+Office
+Offices
+Ogniowo-kradzieżowe
+Ogrzewanie budynków
+Ogólna, ekonomiczna dekompozycja dynamiki kredytu
+Ogólna, ekonomiczna dekompozycja skumulowanej zmiany relacji kredytu do PKB
+Ogólna, ekonomiczna dekompozycja zmian relacji kredytu do PKB
+Ogółem
+Ogółem kredyty dla gospodarstw domowych [%]
+Ogółem kredyty dla przedsiębiorstw [%]
+Open-ended  funds (PLN billion)
+Open-ended AIF 2Q2020
+Open-ended AIF 2Q2021
+Open-ended AIF 4Q2020
+Open-ended AIFs
+Open-ended AIFs 12-2020
+Open-ended AIFs 12-2021
+Open-ended AIFs 6-2022
+Open-ended funds
+Open-ended funds (PLN billion)
+Open-ended funds' net inflow (PLN billion)
+Open-ended investment funds' exposure to domestic monetary financial institutions
+Operational risk exposure amount
+Oprocentowanie d. bieżących
+Oprocentowanie d. terminowych
+Oprocentowanie nowych kredytów mieszkaniowych
+Oprocentowanie nowych umów
+Oszacowania wpływu podatku bankowego na oprocentowanie depozytów
+Oszacowania wpływu podatku bankowego na oprocentowanie kredytów
+Oszacowania wpływu podatku bankowego na rentowność banków
+Oszacowania wpływu podatku bankowego na wolumen aktywów banków
+Oszacowania wpływu podatku bankowego na wolumen obligacji i kredytu w aktywach banków
+Oszczędności do rocznego dochodu rozporządzalnego
+Other
+Other (including provisions****)
+Other Aes
+Other Bonds 
+[PLN billion]
+Other EMEs
+Other MFI
+Other Motor
+Other admin. expenses / equity
+Other bonds
+Other currencies
+Other debt securities
+Other derivatives
+Other domestic entities
+Other domestic investors
+Other financial institutions
+Other financial intermediaries
+Other funds
+Other gains and losses (including provisions**)
+Other liabilities
+Other life insurance
+Other loans
+Other loans [PLN billion]
+Other loans to households
+Other non-life insurance
+Other operating income / equity
+Other real estates
+Other reserves
+Other sectors
+Others
+Over 5 years
+Own capital
+Own funds
+Own funds - category 1 (PLN billion)
+Own funds - category 2 (PLN billion)
+Own funds - category 3 (PLN billion)
+Own funds and SCR coverage ratio – life insurance
+Own funds and SCR coverage ratio – non-life insurance
+Own funds and capital adequacy ratios
+Own funds and solvency ratios
+P2G
+P2R
+PFR and BGK anty-COVID-19 bonds
+PFR and BGK anty-COVID-19 bonds (PLN billion)
+PFR and BGK anty-COVID-19 bonds in investment funds assets
+PLN
+PLN loans - growth rate (y/y)
+PLN loans m/m
+PLN loans m/m 
+[PLN billion]
+PLN loans m/m (PLN billion)
+PMI dla przetwórstwa przemysłowego - strefa euro
+PTE
+Paliwa w produkcji rolniczej
+Papiery dłużne
+Papiery dłużne NBP i SP/gwarantowane przez SP
+Papiery udziałowe
+Papiery wartościowe gwarantowane przez SP (BK) (mld zł)
+Papiery wartościowe gwarantowane przez SP [mld zł]
+Pasywa
+Pasywa bieżące
+Pasywa razem
+Pension funds
+Pension societies
+Percentage of corporate loans in arrears of up to 1 year
+Pieniądz gotówkowy w obiegu (dzienne zmiany narastająco) [mld zł]
+Pieniądz gotówkowy w obiegu: dzienne zmiany narastająco
+Pierwszy kwartyl
+Pierwszy kwartyl / First quartile
+Pilar 1 and Pillar 2
+Pillar 1 and Pillar 2
+Pillar 1 or Pillar 2 capital requirements - 2020-12
+Pillar 1 or Pillar 2 capital requirements - 2021-6
+Pillar 1, Pillar 2 , MREL-RCA and combined buffer requirement
+Pillar 1, Pillar 2 and MREL
+Pillar 1, Pillar 2 and MREL-RCA
+Pillar 1, Pillar 2 and combined buffer requirement
+Pillar 1, Pillar 2, MREL and combined buffer requirement
+Pillar 1, Pillar 2, MREL-RCA and combined buffer requirement
+Pillar 1, Pillar 2, combined buffer requirement and P2G
+Pillar 2 Guidance capital equivalent
+Pillar 2 Requirement and Pillar 2 Guidance capital equivalent for Polish banking sector
+Pillar 2 Requirements capital equivalent
+Pillar I capital requirements, P2R and P2G; PLN bn
+Podatek CIT
+Podatek od aktywów
+Podatek od aktywów i CIT
+Podaż kredytu
+Pokrycie kredytów z utratą wartości odpisami w kredytach dla sektora niefinansowego
+Poland
+Polityka kredytowa
+Polska
+Poprzednia
+Popyt na kredyt
+Portfel kredytów
+Portfel kredytów dla sektora niefinansowego odniesiony do aktywów sektora bankowego, kredyty ze stwierdzona utratą wartości odniesione do kapitałów banków i straty kredytowe odniesione do aktywów
+Portfel kredytów mieszkaniowych w podziale według waluty kredytów
+Portfel obligacji skarbowych i gwarantowanych przez Skarb Państwa w aktywach sektora bankowego w wartości nominalnej, księgowej i rynkowej
+Portfolio of housing loans by loan currency
+Portfolio of treasury bonds and State guaranteed bonds in the assets of the banking sector in nominal, book and market value
+Portugal
+Portugalia
+Porównanie kwot depozytów i kredytów przedsiębiorstw
+Porównanie projekcji wzrostu PKB 2022 i 2023 r. dla strefy euro oraz Niemiec
+Posiedzenie/meeting
+Powiązane
+Powyżej 5 lat
+Poziom oczekiwanej stawki WIBOR 1M implikowanej z kontraktów FRA
+Poznań
+Pozostali pośrednicy finansowi
+Pozostałe
+Pozostałe (w tym rezerwy**)
+Pozostałe MIF
+Pozostałe instrumenty pochodne
+Pozostałe instytucje finansowe
+Pozostałe koszty administracyjne / kapitały
+Pozostałe kraje emerging
+Pozostałe kraje rozwiięte
+Pozostałe kredyty
+Pozostałe papiery dłużne
+Pozostałe przychody operacyjne / kapitały
+Pozostałe ubezpieczenia majątkowe
+Pozostałe ubezpieczenia na życie
+Pozostałe zobowiązania
+Pozostałe zyski 
+i straty (w tym 
+rezerwy*)
+Prawy panel / Right panel
+Premia terminowa
+Premium earned, claims, costs and surplus funds in the half-year period (PLN billion)
+Previous
+Primary housing market
+Processing of raw materials
+Produkcja cementu
+Produkcja prądu i ciepła
+Prognoza
+Prognoza agregatowa
+Prognoza dynamiki kredytów dla sektora niefinansowego – wrzesień 2021 r.
+Projekcje wzrostu PKB 2023 i 2024 wg MFW
+Provisions / equity
+Przeciętne oprocentowanie kredytów dla przedsiębiorstw
+Przeciętne oprocentowanie kredytów konsumenckich
+Przeciętne oprocentowanie kredytów mieszkaniowych dla gospodarstw domowych
+Przeciętny poziom akceptacji wniosków kredytowych przedsiębiorstw
+Przedsiębiorcy indyw.
+Przedsiębiorcy indywidualni
+Przedsiębiorstwa
+Przedsiębiorstwa  [mld zł]
+Przedsiębiorstwa duże
+Przedsiębiorstwa krajowe
+Przedsiębiorstwa/Corporates
+Przejściowy MREL
+- stan na 6-23/Interim MREL 
+- as of 6-23
+Przejściowy MREL 
+- stan na 12-22/Interim MREL 
+- as of 12-22
+Przemysł chemiczny
+Przetwórstwo surowców mineralnych
+Przychody 
+z tytułu dywidend
+Przychody i koszty odsetkowe w relacji do aktywów a poziom stopy WIBOR
+Przychody i koszty odsetkowe w relacji do średnich aktywów sektora bankowego
+Przychody ods/aktywa
+Przychody odsetkowe
+Próg odcięcia (1:3)
+Put on the market in the quarter
+Quarter
+REPO transaction
+ROA (prawa oś) [%]
+ROA (rhs) [%]
+ROA sektora (oś P)
+ROE
+ROE Wariant 0  -  obecne koszty ryzyka, niska stopa procentowa 
+- Stopa procentowa 2,5%
+- Koszty ryzyka:
+KK - 1,7% 
+KM - 0,1%
+KP - 0,4%
+ROE Wariant 1  -  obecne uwarunkowania 
+- Stopa procentowa 7,25%
+- Koszty ryzyka:
+KK - 1,7% 
+KM - 0,1%
+KP - 0,4%
+ROE Wariant 2  -  średnie koszty ryzyka,
+wysoka stopa procentowa 
+- Stopa procentowa 7,25%
+- Koszty ryzyka:
+KK - 2,6% 
+KM - 0,3%
+KP - 0,9%
+ROE Wariant 3  -  wysokie koszty ryzyka,
+wysoka stopa procentowa 
+- Stopa procentowa 7,3%
+- Koszty ryzyka:
+KK - 5% 
+KM - 0,5%
+KP - 2,3%
+ROE banków krajowych, innych instytucji finansowych i przedsiębiorstw niefinansowych w Polsce
+ROE of assets against various levels of credit losses and of interest rate
+ROE of domestic banks, other financial institutions and non-financial corporations in Poland
+RORC
+Rata kredytu do średniej płacy
+Rating High-Yield, Europa
+Rating High-Yield, Europe
+Rating High-Yield, USA
+Rating inwestycyjny, Europa
+Rating inwestycyjny, USA
+Ratio of claims to gross premium and expenses to gross premium in 2017–2024 in non-life insurance in EEA countries
+Ratio of loan losses to net loans  and share of Stage 2 loans in loans by individual types of real estate (according to their purpose)
+Ratio of loan losses to net loans in corporate loans
+Razem
+Real GDP contribution
+Real estate market
+Real house price index (in relation to wage growth) in 7 largest Polish cities.
+(100 = average price in 2013 on the secondary housing market)
+Refernce loan
+Relacja kredytów do depozytów
+Relacja odszkodowań do składki brutto i kosztów do składki brutto w latach 2017–2024 w zakresie ubezpieczeń innych niż na życie w krajach EOG
+Relacja poziomu oszczędności gospodarstw domowych do rocznego dochodu rozporządzalnego w Polsce (%)
+Relacja strat kredytowych do kredytów netto
+Relacja strat kredytowych do kredytów netto i udział kredytów w fazie 2 w kredytach na rodzaje nieruchomości wg ich przeznaczenia
+Relacja strat kredytowych do kredytów netto w kredytach dla przedsiębiorstw
+Related
+Relation of the level of household savings to the annual disposable income in Poland (%)
+Rentownośc kapitału
+Rentowność kapitału własnego (ROE) dla różnych klas aktywów przy różnym poziomie strat kredytowych oraz stopy procentowej
+Renty z ubezpieczeń OC
+Renty z ubezpieczeń majątkowych
+Reserve requirement= 2%
+Residential property transaction prices in the primary (PHM) and secondary market (SHM) in Poland (zloty/m2)
+Resolution framework
+Rest of the world
+Retail
+Retail, services
+Retained earnings
+Return on Equity
+Return on assets in domestic commercial banks (left-hand panel) and cooperative banks (right-hand panel)
+Return on assets in domestic commercial banks and cooperative banks
+Rezerwy / kapitały
+Rezerwy techniczno-ubezpieczeniowe – dział I (mld zł)
+Rezerwy techniczno-ubezpieczeniowe – dział II (mld zł)
+Reżim dźwigni
+Reżim resolution
+Reżim wymogów opartych na ryzyku
+Risk pricing on global financial markets
+Risk-based requirement framework
+RoS 06.2021
+RoS 12.2021
+Rok
+Rolnicy
+Rolnicy indywid.
+Rolnicy indywidualni
+Romania
+Rozkład NIM sektorów bankowych krajów UE
+Rozkład NSFR krajowych banków komercyjnych
+Rozkład ROE sektorów bankowych krajów UE
+Rozkład aktywów analizowanych banków komercyjnych według nadwyżki kapitału podstawowego Tier I po spełnieniu wymogów filarów I i II (lewy panel) oraz wymogu połączonego bufora (prawy panel)
+Rozkład aktywów analizowanych banków komercyjnych według nadwyżki kapitału podstawowego Tier I po spełnieniu wymogów filarów I i II, wymogu MREL oraz wymogu połączonego bufora*
+Rozkład aktywów analizowanych banków komercyjnych według nadwyżki kapitału podstawowego Tier I po spełnieniu wymogów w poszczególnych reżimach regulacji ostrożnościowych
+Rozkład aktywów krajowych banków komercyjnych według poziomów LCR
+Rozkład dochodów do dyspozycji wg decyli dochodowych
+Rozkład nadwyżek CET1 ponad wymogi I i II filara oraz wymóg połączonego bufora [udział w aktywach sektora banków o danej wielkości nadwyżki CET1]
+Rozkład relacji raty do dochodu w momencie udzielenia oraz symulacja na koniec 2024 r.
+Rozkład sytuacji finansowej zadłużonych (wg indeksu) w latach 2019 – 2020
+Rozkład sytuacji zadłużonych GD (wg indeksu) wg skali obciążenia i terminowości spłat
+Rozkład sytuacji zadłużonych GD (wg indeksu) wg typu kredytu
+Rozkład udziału kredytów o zmiennej stopie w latach 2010 – 2023 w krajach UE
+Rozkład wg dochodów kredytów z wysokim DSTI (pow. 50%) udzielonych w okresie styczeń 2022-czerwiec 2024.
+Rozkład wrażliwości wyniku odsetkowego banków na spadek stóp procentowych w teście SOT EVE
+Rozkład wrażliwości wyniku odsetkowego banków na spadek stóp procentowych w teście SOT NII
+Rozkład wskaźnika płynności dla funduszy otwartych
+Rozkład wskaźnika płynności i dźwigni finansowej w funduszach inwestycyjnych otwartych na koniec czerwca 2025 r.
+Rozkład wskaźnika płynności i dźwigni finansowej w specjalistycznych funduszach inwestycyjnych otwartych na koniec czerwca 2025 r.
+Rozkład wskaźnika płynności w funduszach otwartych
+Rumunia
+Rynek kredytowy
+Rynek nieruchomości
+Rynek pierwotny
+Rynek wtórny
+Rynkowa ocena niedokapitalizowania polskich banków na tle zmian indeksów giełdowych
+Ryzyko ekonomiczne
+Ryzyko kredytowe
+Rząd i samorządy
+Róznica między oprocentowaniem kredytu  o zmiennej i okresowo stałej stopie (lewa oś, w pkt. proc.)
+Różnica (WIBOR3M - IRS5Y)
+Różnica wysokości łącznego współczynnika kapitałowego analizowanej grupy banków na koniec scenariusza szokowego i referencyjnego oraz dekompozycja tej różnicy
+S&P 500
+SCR - right axis
+SCR coverage ratio - right axis
+SFIO
+SFIO 12-2020
+SFIO 12-2021
+SFIO 2Q2020
+SFIO 2Q2021
+SFIO 4Q2020
+SFIO 6-2022
+SME
+SOT NII
+SPN
+SRISK
+Saldo napływu środków do funduszy otwartych (mld zł)
+Savings relative to the annual disposable income
+Scenariusz referencyjny / Reference scenario
+Scenariusz szokowy / Shock scenario
+Second quartile
+Secondary housing market
+Sector dynamics y/y
+Sector's ROA (rhs)
+Securities guaranteed by the Treasury (commercial banks) (PLN billion)
+Sektor bankowy
+Sektor budownictwa
+Sektor energetyczny i komunalny
+Sektor finansowy
+Sektor finansowy [mld zł]
+Sektor niefinansowy
+Sektor paliw kopalnianych
+Sektor przedsiębiorstw niefinansowych
+Sektor rolnictwa
+Sektor rządowy i samorządowy
+Sektor transportowy
+Sektory energochłonne
+Sektory pozostałe (niskoemisyjne)
+Selected CET1 items, PLN billion
+Selected income and costs, and results of life insurance (PLN billion)
+Selected income and costs, and results of non-life insurance (PLN billion)
+Selected items of the income statement in the half year – life insurance (PLN billion)
+Selected items of the income statement in the half year – non-life insurance (PLN billion)
+Sensitivity of DSTI to interest rate changes
+Sensitivity of own funds to credit risk of Treasury bonds and State Treasury-guaranteed bonds and contributions to the shock
+Sensitivity of own funds to market risk of Treasury bonds and contributions to the shock
+Shanghai SE
+Share
+Share in GDP of EU
+Share in assets of banks with negative profitability
+Share in the value of loans
+Share of  bonds in assets
+Share of  bonds in banks' assets
+Share of CET1 surplus covering MREL, PLN billion
+Share of CET1 surplus covering final MREL [PLN bn]
+Share of CET1 surplus covering interim MREL [PLN bn]
+Share of Stage 2 loans (left-hand panel) and Stage 3 (impaired) loans (right-hand panel) for individual types of loans against the entire aggregate of loans to the non-financial sector
+Share of Stage 2 loans (left-hand panel) and impaired (Stage 3) loans (right-hand panel) in individual types of loans to the non-financial sector
+Share of Stage 2 loans and Stage 3 loans in individual types of loans and for the aggregate of loans to the non-financial sector
+Share of Stage 2 loans and Stage 3 loans in loans by individual types of real estate (according to their purpose)
+Share of Stage 2 loans and Stage 3 loans in loans for individual NACE sections
+Share of Treasury and Treasury-guranteed securities in total assets
+Share of Treasury bonds and State Treasury-guaranteed bonds in banking sector’s assets
+Share of Treasury bonds and State Treasury-guaranteed bonds in the assets of the banking sector
+Share of Treasury securities and securities guaranteed by the Treasury in total assets
+Share of Treasury securities in total assets
+Share of banks controlled by ST in assets of the sector
+Share of commercial banks' assets at risk of bankruptcy in individual macroeconomic scenarios
+Share of commercial banks' assets with Common Equity Tier 1 capital shortfalls in relation to Pillar 1 and Pillar 2 requirements
+Share of domestic Treasury securities and NBP bills in total assets of commercial banks
+Share of domestic Treasury securities and NBP bills in total assets of domestic commercial banks
+Share of floating-rate loans granted in 2023 and share in GDP of the EU, by country
+Share of floating-rate loans in 2023
+Share of forborne (restructured) loans in individual types of loans and for the aggregate of loans to the non-financial sector
+Share of forborne (restructured) loans in individual types of loans and for the entire aggregate of loans to the non-financial sector
+Share of forborne loans in housing loans and loans for consumption
+Share of income-groups in high-DSTI loans
+Share of investment funds using derivatives
+Share of loans in Stage 2 and Stage 3 (according to the IFRS 9) in total loans in the EU
+Share of marked-to-market portfolio
+Share of market portfolio
+Share of new loans (excluding loans under the "BK2%" programme with high DTI ratio at origination (i.e. above 6)
+Share of new loans (excluding loans under the "BK2%" programme) with high DSTI ratio at origination (i.e. above 50%)
+Share of new loans with high DSTI ratio at origination (i.e. above 50%)
+Share of new loans with high DTI ratio at origination (i.e. above 6)
+Share of new periodically fixed-rate loans
+Share of new periodically fixed-rate loans and the difference between the interest rate on floating-rate loans and periodically fixed-rate loans in Poland, March 2020-September 2023
+Share of total assets - closed-ended funds
+Share of total assets - open-ended funds
+Share of variable rate T-bonds
+Share of votes of the gov. representatives in KNF votes number
+Shares
+Shares of loans in arrears to the non-financial sector in individual arrears classes
+Shares of short and medium-term arrears (31 days to 1 year) for individual types of loans and for the entire aggregate of loans to the non-financial sector
+Shares of short and medium-term arrears (31 days to 1 year) for individual types of loans to the business entities
+Shares of short and medium-term arrears (31 days to 1 year) for individual types of loans to the non-financial sector
+Shock as a percentage of own funds
+Significant currency: an institution has total liabilities denominated in that currency that amount to at least 5 % of the institution's total liabilities.
+Skarbowe papiery dłużne
+Skarbowe papiery dłużne (mld zł)
+Skarbowe papiery wartościowe
+Skarbowe papiery wartościowe 
+[mld zł]
+Skarbowe papiery wartościowe (mld zł)
+Skarbowe papiery wartościowe [mld zł]
+Skumulowana zmiana kredytu do PKB – komponent wyjaśniony
+Skumulowane inne całkowite dochody
+Skumulowane inne całkowite dochody (AOCI)
+Skumulowane inne całkowite dochody (AOCI)
+[mld zł]
+Skumulowane inne całkowite dochody (AOCI) [mld PLN]
+Skumulowane inne całkowite dochody (AOCI) po uwzględnieniu filtra ostrożnościowego
+Skumulowany realny wzrost płac
+Skutek NWZA PKO BP (zmiana zysku netto)
+Składki na fund. gwarancji dep. i resolution
+Składki zarobione
+Składki zarobione netto
+Składki zarobione, wypłaty i nadwyżka środków (mld zł)
+Składki zarobione, wypłaty, koszty i nadwyżka środków w półroczu (mld zł)
+Slovakia
+Slovenia
+Sold in the quarter
+Source:
+Source: ECB, IMF and OECD.
+Sovereign-bank nexus index
+Sovereign-bank nexus index (right-hand panel)
+Spain
+Specialized open-ended AIF
+Spreads - bond markets, basis points
+Spready na rynkach obligacji, basis points
+Sprzedane w kwartale
+Staff expenses / equity
+Stage 1
+Stage 2
+Stage 3
+Stan kredytów mieszkaniowych w relacji do PKB
+Standard risk level - bottom
+Standard risk level - top
+Standardowy poziom ryzyka - dół
+Standardowy poziom ryzyka - góra
+Statistical decomposition of changes in credit-to-GDP ratio
+Statystyczna dekompozycja zmian relacji kredytu do PKB
+Stałe koszty /
+Fixed costs
+Stock clearance time in quarters
+Stock clearance time in quarters (RHS)
+Stock of housing loans in relation to GDP
+Stopa NBP
+Stopa bezrobocia w 2020 Q1 (%, sa)
+Stopa bezrobocia w Polsce na tle UE (%)
+Stopa procentowa
+Stopa referencyjna
+Stopa referencyjna NBP
+Stopa rezerwy obowiązkowej=2%
+Strat finansowych
+Straty do kredytów
+Straty kredytowe
+Straty kredytowe [mld zł]
+Straty kredytowe do aktywów
+Straty kredytowe w bankach spółdzielczych w podziale na półrocza
+Straty kredytowe w bankach spółdzielczych w półroczach
+Straty kredytowe w kredytach dla sektora niefinansowego
+Straty kredytowe w kredytach dla sektora niefinansowego w podziale na półrocza
+Straty kredytowe w podziale na półrocza
+Strefa Euro
+Strefa euro
+Structure of banking sector’s earnings (items of P&L account in relation to average assets)
+Structure of corporate debt by creditor
+Structure of corporate debt by creditors, domestic and foreign
+Structure of corporate foreign debt by creditor and capital relation at the end of second quarter 2024
+Structure of derivatives used by investment funds at notional value
+Structure of financial assets of households
+Structure of high quality liquid assets of the insurance sector (PLN billion)
+Structure of interest income and interest expense of the banking sector
+Structure of investment funds' exposure to domestic monetary financial institutions
+Structure of investors in the domestic Treasuries market
+Structure of liabilities of the banking sector
+Structure of liquid assets in insurance sector
+Structure of the banking sector liabilities
+Structure of the deposits according to the criterion of guarantee cover
+Structure of the housing loan portfolio by loan currency
+Structure of the loan portfolio, impaired loans and credit losses
+Struktura aktywów finansowych gospodarstw domowych
+Struktura depozytów banków według kryterium gwarantowania
+Struktura ekspozycji funduszy inwestycyjnych na krajowy sektor monetarnych instytucji finansowych
+Struktura instrumentów pochodnych wykorzystywanych przez fundusze inwestycyjne według wartości nominalnej
+Struktura inwestorów na krajowym rynku SPW
+Struktura inwestorów na krajowym rynku SPW i gwarantowanych przez SP
+Struktura kredytów objętych moratoriami w UE: Fazy 1-3.
+Struktura lokat sektora ubezpieczeń (mld zł)
+Struktura pasywów sektora bankowego
+Struktura portfela kredytów mieszkaniowych według walut kredytów
+Struktura portfela kredytów, kredytów ze stwierdzoną utratą wartości i strat kredytowych
+Struktura przychodów odsetkowych i kosztów odsetkowych sektora bankowego
+Struktura płynnych aktywów funduszy inwestycyjnych otwartych
+Struktura płynnych aktywów sektora ubezpieczeń
+Struktura płynnych aktywów sektora ubezpieczeń (mld zł)
+Struktura płynnych aktywów specjalistycznych funduszy inwestycyjnych otwartych
+Struktura płynnych aktywów wysokiej jakości sektora ubezpieczeń
+Struktura płynnych aktywów wysokiej jakości w funduszach inwestycyjnych otwartych
+Struktura płynnych aktywów wysokiej jakości w specjalistycznych funduszach inwestycyjnych otwartych
+Struktura terminowa aktywów i pasywów sektora bankowego
+Struktura terminowa depozytów gospodarstw domowych
+Struktura terminowa stopy wolnej od ryzyka
+Struktura wyniku sektora bankowego (pozycje rachunku zysków i strat w relacji do średnich aktywów)
+Struktura zadłużenia przedsiębiorstw w podziale na wierzycieli krajowych i zagranicę
+Struktura zadłużenia przedsiębiorstw według wierzycieli
+Struktura zadłużenia z tytułu emisji instrumentów dłużnych (kraj vs. zagranica)
+Struktura zadłużenia zagranicznego przedsiębiorstw według sektora wierzyciela i powią_x0002_zania kapitałowego na koniec II kwartału 2024 r.
+Stucture of loans in the EU subject to moratoria: Stages 1-3
+Subordinated Bonds [PLN billion]
+Subordinated bonds
+Sumy nadwyżek i deficytów kapitału podstawowego Tier I po spełnieniu wymagań regulacyjnych (mld zł)
+Sumy nadwyżek i deficytów kapitału podstawowego Tier I po spełnieniu wymagań regulacyjnych [mld PLN]*
+Sumy nadwyżek i deficytów kapitału podstawowego Tier I po spełnieniu wymagań regulacyjnych na koniec czerwca 2023 r. i na koniec okresu symulacji (2025 r.) [mld zł]
+Surplus
+Surplus after 
+Pillar 1 + Pillar 2
+Surplus after 
+Pillar 1 + Pillar 2 + CBR
+Surplus after 
+min. CET1 ratio
+Surplus after 
+min. Leverage Ratio
+Surplus after 
+min. Leverage Ratio*
+Surplus after Pillar 1
+Surplus of deposits over loans to the non-financial sector
+Surpluses and shortfalls with regard to MREL and CBR-M [PLN bn]
+Szacowana podaż kredytu
+Szacowane wykorzystanie nadwyżek CET1 na pokrycie MREL [mld zł]
+Szacowany koszt kapitału banków notowanych na GPW na tle rentowności
+Szacowany popyt na kredyt
+Szacunkowa stopa zwrotu na kapitale własnym z inwestycji w budowę i komercjalizację biu-rowca klasy A, przy LTC = 0% i LTC = 80%
+Szacunkowa stopa zwrotu na kapitale własnym z inwestycji w istniejący biurowiec klasy B, przy LTC = 0% i 80%
+Szanghaj
+Szczecin
+Szok spreadu kredytowego SPW i inne zmiany funduszy własnych
+Szok/fundusze własne
+Słowacja
+Słowenia
+TCR 06-2021
+TCR 06-2023
+TCR 12-2023
+TCR 12-2024
+TCR 12-2025
+TCR 12-2026 - difference between adverse and reference scenario
+TCR 12-2026 - różnica między scenariuszem szokowym a referencyjnym
+TCR 12-2027 - difference between adverse and reference scenario
+TCR 12-2027 - różnica między scenariuszem szokowym a referencyjnym
+TCR 6-2022
+TFI
+Tax on assets
+Technical provisions – life insurance sector (PLN billion)
+Technical provisions – non-life insurance sector (PLN billion)
+Technical result - right axis
+Tempo wzrostu r/r i zmiany m/m [mld zł] wartości kredytów mieszkaniowych w bilansie sektora bankowego
+Tempo wzrostu wybranych kategorii kredytów dla sektora niefinansowego, r/r
+Tempo zmian (r/r)
+Tempo zmian depozytów gospodarstw domowych i wkład poszczególnych składowych (r/r)
+Tempo zmian r/r i wkład poszczególnych składowych depozytów gospodarstw domowych
+Tempo zmian r/r i wkład poszczególnych składowych depozytów gospodarstw domowych (lewy panel) oraz przedsiębiorstw (prawy panel) – podział walutowy
+Tempo zmian r/r i wkład poszczególnych składowych depozytów sektora niefinansowego
+Tensions associated with residential real estate funding
+Tensions in the household stretch
+Tensions in the residential real estate market
+Term deposits
+Term premium
+Term repricing gap in the banking sector, PLN billion
+Term structure of assets and liabilities of the banking sector
+Term structure of banks' liabilities towards households
+Term structure of the banking sector assets and liabilities
+Term structure of the risk-free rate
+Terminowe
+Terminowe depozyty
+The LCR and NSFR ratios of domestic commercial banks
+The LCR ratios of domestic banks (left-hand panel) and NSFR (right-hand panel)
+The LCR ratios of domestic commercial banks and NSFR
+The LCRs of domestic banks: commercial banks - left-hand panel, cooperative banks - right-hand panel (LCR on an individual basis)
+The NBP reference rate
+The NBP reference rate, WIBOR3M rate and IRS5Y5 rate and the difference between WIBOR3M rate and IRS5Y rate in Poland, March 2020-October 2023
+The change in the main categories of financial assets of households (y/y, PLN billion)
+The difference between the interest rate on floating-rate loans and periodically fixed-rate loans
+The difference in the total capital ratio of the analysed group of banks at the end of the adverse and reference scenario and the decomposition of this difference
+The difference in the total capital ratio of the analysed group of banks at the end of the adverse and reference scenarios and decomposition of this difference
+The investors in covered bonds (August 2023)
+The offer at the end of the quarter
+The profitability of construction
+The ratio of credit to the non-financial sector to GDP
+The ratio of investment funds' liabilities due to credits, loans and conditional transactions to net assets in selected European countries at the end of June 2025.
+The result of PKO BP EGM (change in net earnings)
+The sensitivity of the banking sector to the fall in the prices of treasury bonds and bonds guaranteed by the Treasury
+The share of selected liability items in the banking sector balance sheet and the average interest cost against the changes in the NBP reference rate
+The structure of high quality liquid assets in UCITS
+The structure of high quality liquid assets in insurance sector
+The structure of high quality liquid assets in open-ended AIFs
+The structure of liquid assets in UCITS
+The structure of liquid assets in specialized open-ended AIFs
+Third quartile
+Tier 1 
+capital ratio
+Tier 1 capital 
+[PLN billion]
+Tier 2 capital 
+[PLN billion]
+Tier I 
+capital ratio
+Tier I capital (PLN bn)
+Tier I capital [PLN bn]
+Tier I capital ratio
+Tier II capital (PLN bn)
+Tier II capital [PLN bn]
+Time needed to sell available stock, the number of housing units put on the primary market, sold and remaining on offer in the six largest markets in Poland
+Top 10 counterparties
+Top 10 counterparties (excluding financial instruments and intra-group financing)
+Total
+Total - average
+Total assets/GDP
+Total capital
+ ratio
+Total capital ratio
+Total capital ratio of domestic commercial banks in the reference scenario (left-hand panel) and the adverse scenario (right-hand panel) and decomposition of its changes
+Total capital ratio of the analysed group of banks in the reference scenario (left-hand panel) and the adverse scenario (right-hand panel) and decomposition of its changes
+Total excess and deficit of Common Equity Tier 1 capital after meeting regulatory requirements [PLN billion]*
+Total excess and deficit of Common Equity Tier 1 capital after meeting the regulatory requirements at the end of June 2023 and at the end of the simulation period (2025) [PLN billion]
+Total liabilities
+Total risk eposure amount 
+[index 6-2014=100]
+Total risk exposure amount, PLN billion
+Total share of the top 10 counterparties in total liabilities
+Transaction prices of dwellings in the primary and secondary market in selected groups of cities in Poland (zloty/m2)
+Transakcje REPO
+Transport
+Transport drogowy
+Transportation sector
+Treasury and state guaranteed securities (PLN billion)
+Treasury bonds and State Treasury-guaranteed bonds
+Treasury bonds and bills
+Treasury bonds valuation in OCI and  other own funds' adjustments
+Treasury securities 
+[PLN billion]
+Treasury securities (PLN billion)
+Treasury securities [PLN billion]
+Treasury-guaranteed securities (commercial banks) [PLN billion]
+Treasury-guaranteed securities [PLN billion]
+Trzeci kwartyl
+Trzeci kwartyl / Third quartile
+Trójmiasto
+Typ GD
+Typ działania
+Type of HH
+Type of action
+Tytuły uczestnictwa
+Tytuły uczestnictwa (mld zł)
+UCITS
+UCITS 12-2020
+UCITS 12-2021
+UCITS 2Q2020
+UCITS 2Q2021
+UCITS 4Q2020
+UCITS 6-2022
+UCITS and open-ended AIFs
+UFK
+USA
+USD
+Ubezpieczenia kredytów i poręczeń
+Ubezpieczenia majątkowe
+Ubezpieczenia na życie
+Ubezpieczenia na życie bez UFK
+Ubezpieczenia na życie z udziałem w zyskach
+Ubezpieczenia ogniowo-kradzieżowe
+Ubezpieczenia z UFK
+Udział
+Udział % SPW w aktywach banków
+Udział FI stosujących pochodne
+Udział SPW i obligacji gwarantowanych przez SP w aktywach banków
+Udział aktywów bankowych w aktywach ogółem
+Udział aktywów banków komercyjnych z niedoborami kapitału podstawowego Tier I względem wymogów filarów I i II
+Udział aktywów banków komercyjnych zagrożonych upadłością w poszczególnych sce_x0002_nariuszach makroekonomicznych
+Udział banki krajowe
+Udział banków kontrolowanych przez SP w aktywach sektora
+Udział banków o ujemnej zyskowności w aktywach
+Udział funduszy inwestycyjnych w krajowym rynku dłużnych papierów wartościowych
+Udział głosów przedstawicieli rządu w liczbie głosów w KNF
+Udział krajowych skarbowych papierów wartościowych oraz bonów NBP w aktywach banków komercyjnych
+Udział krajowych skarbowych papierów wartościowych oraz bonów pieniężnych NBP w aktywach krajowych banków komercyjnych
+Udział kredytów forborne (restrukturyzowanych) w poszczególnych rodzajach kredytów oraz dla całego agregatu kredytów dla sektora niefinansowego
+Udział kredytów o okresowo stałej stopie (prawa oś, w %)
+Udział kredytów o zmiennej stopie procentowej,  udzielonych w 2023 r oraz udział w PKB UE wg krajów
+Udział kredytów restrukturyzowanych (forborne) w kredytach mieszkaniowych i konsumpcyjnych
+Udział kredytów restrukturyzowanych (forborne) w poszczególnych rodzajach kredytów oraz dla całego agregatu kredytów dla sektora niefinansowego
+Udział kredytów udzielonych w 2023 r. o zmiennej stopie procentowej
+Udział kredytów w Fazach 2 i 3 według wymogów MSSF 9 w UE w całym portfelu
+Udział kredytów w fazie 2 i fazie 3 w kredytach na poszczególne rodzaje nieruchomości (wg ich przeznaczenia)
+Udział kredytów w fazie 2 i fazie 3 w poszczególnych rodzajach kredytów oraz dla całego agregatu kredytów dla sektora niefinansowego
+Udział kredytów w fazie 2 i fazie 3 w poszczególnych rodzajach kredytów oraz dla całości kredytów dla sektora niefinansowego
+Udział kredytów w fazie 2 i w fazie 3 w kredytach dla poszczególnych sekcji PKD
+Udział nierezydenci
+Udział nowych kredytów o okresowo stałej stopie oraz różnica między oprocentowaniem kredytów o zmiennej i okresowo stałej stopie w Polsce w okresie 03.2020-09.2023
+Udział obligacji SP i gwarantowanych w aktywach
+Udział obligacji skarbowych i gwarantowanych przez SP w aktywach banków
+Udział obligacji skarbowych i gwarantowanych przez Skarb Państwa w aktywach sektora bankowego
+Udział obligacji zmiennokuponowych
+Udział papierów skarbowych i gwarantowanych przez SP w aktywach
+Udział papierów skarbowych w aktywach
+Udział portfela rynkowego
+Udział portfela rynkowego (mld zł)
+Udział portfela wycenianego rynkowo
+Udział poszczególnych grup dochodowych w kredytach o wysokim DSTI
+Udział w PKB UE
+Udział w portfelu kredytowym
+Udział wybranych pozycji pasywów w bilansie sektora bankowego oraz średni koszt oprocentowania na tle zmian stopy referencyjnej NBP
+Udział zobowiązań kwalifikowalnych 
+w MREL RCA
+Udziały krótkich i średnich opóźnień w spłacie (31 dni do 1 roku) w poszczególnych rodzajach kredytów dla podmiotów gospodarczych
+Udziały krótkich i średnich opóźnień w spłacie (31 dni do 1 roku) w poszczególnych rodzajach kredytów dla sektora niefinansowego
+Udziały krótkich i średnich opóźnień w spłacie (31 dni do 1 roku) w poszczególnych rodzajach kredytów oraz dla całego agregatu kredytów dla sektora niefinansowego
+Udziały opóźnionych w spłacie kredytów dla sektora niefinansowego w poszczególnych przedziałach opóźnień
+Udzielone pożyczki
+Ugody /
+Settlements
+Unemployment
+Unemployment rate in 2020 Q1 (%, sa)
+Unemployment rate in Poland compared to the EU (%)
+Unexplained component
+Unexplained effect
+Unia Europejska
+Unit-linked
+Up to 1 day
+Up to 1 month
+Up to 1 week
+Up to 1 year
+Up to 2 years
+Up to 3 months
+Up to 5 years
+Up to 6 months
+Uwaga: dane bez BGK.
+Uwagi: nadwyżka/niedobór środków płynnych rozumiany jako nadwyżka kwoty zabezpieczenia przed utrata płynności przy założeniu, że LCR=100%. Dane nie uwzględniają BGK i banków zrzeszających.
+Uwagi: z próby wyłączono banki o wysokich wskaźnikach LCR: dla banków komercyjnych powyżej 500%. Dane nie uwzględniają BGK i banków zrzeszających.
+Value
+Value (bn PLN)
+Value (left-hand panel) and growth rate of deposits of the corporates (y/y) and contribution of individual components to deposit growth (right-hand panel) - term structure
+Value (left-hand panel) and growth rate of deposits of the households (y/y) and contribution of individual components to deposit growth (right-hand panel) - term structure
+Value of new housing loans - nominal and in relation to wages
+Value of new housing loans in relation to GDP
+Value of new loans (PLN billion)
+Value of new loans (three-month moving average)
+Value of new loans (three-month moving average, PLN million)
+Value of transactions involving investment in commercial real estate in particular years (EUR billion)
+Vulnerability of regulatory capital to credit risk of TBs (rhs)
+WIBOR
+WIBOR 3M
+WIBOR3M
+WIG
+WIG BANKI
+Wages
+Waluta znacząca: instytucja posiada łączne zobowiązania denominowane w danej walucie, których kwota wynosi co najmniej 5 % łącznych zobowiązań instytucji.
+Waluta/Currency
+Walutowe
+Warehauses, industry
+Warehouse
+Warehouses  and industry
+Wariant 0
+Wariant 1
+Wariant 2
+Wariant 3
+Warość nominalna
+Warsaw
+Warszawa
+Warszawa LTC = 0%
+Warszawa LTC = 80%
+Warszawa LTC =0%
+Warszawa LTV =0%
+Warszawa PM
+Warszawa PM nom.
+Warszawa PM real.
+Warszawa RP
+Warszawa RW
+Warszawa SM
+Warszawa ind.WYN
+Warszawa nom. SM
+Warszawa nom.RP
+Warszawa nom.RW
+Warszawa real. SM
+Warszawa real.RP
+Warszawa real.RW
+Warszawa wage ind.
+Wartość
+Wartość (lewy panel) oraz tempo zmian r/r i wkład poszczególnych składowych depozytów gospodarstw domowych (prawy panel) – podział terminowy
+Wartość (lewy panel) oraz tempo zmian r/r i wkład poszczególnych składowych depozytów przedsiębiorstw (prawy panel) – podział terminowy
+Wartość (mld zł)
+Wartość Rynkowa
+Wartość SPW i obligacji gwarantowanych przez SP w aktywach banków (mld zł)
+Wartość SPW mld zł
+Wartość księgowa
+Wartość nominalna pochodnych do WAN
+Wartość nominalna wyemitowanych bonów pieniężnych NBP [mld zł]
+Wartość nowo udzielonych kredytów (trzymiesięczna średnia krocząca)
+Wartość nowo udzielonych kredytów (trzymiesięczna średnia krocząca, mln zł)
+Wartość nowo udzielonych kredytów mieszkaniowych w relacji do PKB
+Wartość nowo udzielonych kredytów mieszkaniowych – nominalna i w odniesieniu do wynagrodzeń
+Wartość nowych kredytów (mld zł)
+Wartość obligacji skarbowych i gwarantowanych przez SP w aktywach banków
+Wartość portfela wycenianego rynkowo
+Wartość transakcji inwestycyjnych w nieruchomościach komercyjnych w poszczególnych latach (w mld euro)
+Wartość zobowiązań oraz dźwignia finansowa w sektorze funduszy inwestycyjnych
+Wartość/value (mld zł/PLN billion)
+Wielkość portfela
+Wielkość portfela (mld zł)
+Wkład deflatora PKB
+Wkład głównych składowych
+Wkład kredytu
+Wkład poszczególnych składowych
+Wkład realnego PKB
+Wlk. Brytania
+World
+Wprowadzone w kwartale
+Wpółczynnik kapitału podstawowego Tier I i dynamika jego składowych
+Wpłaty i wypłaty środków do/z funduszy inwestycyjnych otwartych (mld zł)
+Wpłaty i wypłaty środków w funduszach otwartych (mld zł)
+Wpływ na ROA
+Wpływ na ROA – dolna granica przedziału ufności
+Wpływ na ROA – górna granica przedziału ufności
+Wpływ na oprocentowanie depozytów gospodarstw domowych
+Wpływ na oprocentowanie depozytów gospodarstw domowych – dolna granica przedziału ufności
+Wpływ na oprocentowanie depozytów gospodarstw domowych – górna granica przedziału ufności
+Wpływ na oprocentowanie depozytów przedsiębiorstw
+Wpływ na oprocentowanie depozytów przedsiębiorstw – dolna granica przedziału ufności
+Wpływ na oprocentowanie depozytów przedsiębiorstw – górna granica przedziału ufności
+Wpływ na oprocentowanie kredytów dla przedsiębiorstw
+Wpływ na oprocentowanie kredytów dla przedsiębiorstw – dolna granica przedziału ufności
+Wpływ na oprocentowanie kredytów dla przedsiębiorstw – górna granica przedziału ufności
+Wpływ na oprocentowanie kredytów mieszkaniowych
+Wpływ na oprocentowanie kredytów mieszkaniowych – dolna granica przedziału ufności
+Wpływ na oprocentowanie kredytów mieszkaniowych – górna granica przedziału ufności
+Wpływ na oprocentowanie pozostałych kredytów dla gos. dom.
+Wpływ na oprocentowanie pozostałych kredytów dla gos. dom. – dolna granica przedziału ufności
+Wpływ na oprocentowanie pozostałych kredytów dla gos. dom. – górna granica przedziału ufności
+Wpływ na wolumen aktywów
+Wpływ na wolumen aktywów – dolna granica przedziału ufności
+Wpływ na wolumen aktywów – górna granica przedziału ufności
+Wpływ na wolumen kredytu
+Wpływ na wolumen kredytu – dolna granica przedziału ufności
+Wpływ na wolumen kredytu – górna granica przedziału ufności
+Wpływ na wolumen obligacji
+Wpływ na wolumen obligacji – dolna granica przedziału ufności
+Wpływ na wolumen obligacji – górna granica przedziału ufności
+Wpływ szoku klimatycznego na wycenę kapitałów instytucji finansowych
+Wpływ szoku stóp procentowych na FW
+Wpływu szoku stóp procentowych i kredytowego na FW
+Wrażliwość DSTI na zmiany stóp procentowych
+Wrażliwość fund. własnych na ryzyko kred. obligacji skarb. (prawa oś)
+Wrażliwość funduszy własnych banków na ryzyko zmian wyceny SPW
+Wrażliwość funduszy własnych na ryzyko kredytowe SPW oraz wpływ poszczególnych czynników
+Wrażliwość sektora bankowego na spadek cen obligacji skarbowych i gwarantowanych przez Skarb Państwa
+Wrocław
+Wskaźnik kredytów CRE w fazie 2 i 3
+Wskaźnik kredytów zagrożonych pomiędzy sektorami
+Wskaźnik płynności
+Wskaźnik płynności (średnia) - prawa oś
+Wskaźnik płynności - prawa oś
+Wskaźnik płynności aktywów wysokiej jakości (%)
+Wskaźnik płynności aktywów wysokiej jakości (w %)
+Wskaźnik płynności aktywów wysokiej jakości (średnia) (%)
+Wskaźnik płynności aktywów wysokiej jakości w funduszach inwestycyjnych otwartych
+Wskaźnik płynności aktywów wysokiej jakości w specjalistycznych funduszach inwestycyjnych otwartych
+Wskaźnik płynności w funduszach inwestycyjnych otwartych
+Wskaźnik płynności w specjalistycznych funduszach inwestycyjnych otwartych
+Wskaźnik płynności wysokiej jakości (średnia) - prawa oś
+Wskaźnik płynności wysokiej jakości - prawa oś
+Wskaźnik szkodowości (LR) i COR w dziale ubezpieczeń majątkowych
+Wskaźnik szkodowości (LR) w dziale II
+Wskaźnik zaufania konsumentów
+Wskaźnik zaufania przedsiębiorców
+Wskaźniki LCR banków krajowych: banki komercyjne – lewy panel, banki spółdzielcze – prawy panel (LCR jednostkowy)
+Wskaźniki LCR i NSFR krajowych banków komercyjnych
+Wskaźniki LCR krajowych banków komercyjnych (lewy panel) i NSFR (prawy panel)
+Wskaźniki LCR krajowych banków komercyjnych i NSFR
+Wskaźniki kredytów w fazie 2 (lewy panel) i kredytów w fazie 3 (zagrożonych) (prawy panel) dla poszczególnych rodzajów kredytów na tle całego agregatu kredytów dla sektora niefinansowego
+Wskaźniki kredytów w fazie 2 i kredytów w fazie 3 (zagrożonych) w poszczególnych rodzajów kredytów dla sektora niefinansowego
+Wskaźniki kredytów zagrożonych (3 faza) i udziały kredytów w 2 fazie w kredytach mieszkaniowych w PLN, EUR i CHF
+Wskaźniki zaufania przedsiębiorców w UE oraz PMI dla przetwórstwa przemysłowego w strefie euro
+Wskaźniki zaufania w krajach OECD
+Współczynnik kapitału Tier I
+Współczynnik kapitału podstawowego Tier I
+Współczynnik wypłacalności - prawa oś
+Wszystkie GD
+All households
+Wybrane pozycje CET1, mld zł
+Wybrane pozycje rachunku wyników w półroczu – dział I (mld zł)
+Wybrane pozycje rachunku wyników w półroczu – dział II (mld zł)
+Wybrane przychody i koszty oraz wyniki działu ubezpieczeń majątkowych (mld zł)
+Wybrane przychody i koszty oraz wyniki działu ubezpieczeń na życie (mld zł)
+Wycena SPW przez
+OCI i inne zmiany
+funduszy własnych
+Wydobycie i przetwórstwo węgla, ropy i gazu
+Wykorzystanie nadwyżek CET1 na pokrycie MREL, mld zł
+Wykorzystanie nadwyżek CET1 na pokrycie docelowego MREL [mld PLN]
+Wykorzystanie nadwyżek CET1 na pokrycie przejściowego MREL [mld PLN]
+Wykres 2.33. Indeks Sovereign-bank nexus (lewy panel)
+Wymogi kapitałowe filara I, P2R oraz P2G; mld PLN
+Wymogi kapitałowe z tytułu innych rodzajów ryzyka
+Wymogi kapitałowe z tytułu ryzyka kredytowego
+Wymogi kapitałowe z tytułu ryzyka operacyjnego
+Wymogi kapitałowe z tytułu ryzyka rynkowego
+Wymóg dźwigni
+Wymóg połączonego
+bufora
+Wymóg połączonego
+bufora i szacowany
+wymóg MREL
+Wymóg połączonego bufora
+Wymóg połączonego bufora - 2020-12
+Wymóg połączonego bufora - 2021-6
+Wymóg wskaźnika dźwigni (3%)
+Wynagrodzenia (z minusem)
+Wynik finansowy - prawa oś
+Wynik finansowy netto (dane)
+Wynik finansowy netto (projekcja)
+Wynik finansowy netto narastająco do sierpnia w poszczególnych latach i ROA sektora bankowego
+Wynik finansowy netto narastająco do września w poszczególnych latach i ROA sektora bankowego
+Wynik odsetkowy
+Wynik odsetkowy / kapitały
+Wynik odsetkowy i marża odsetkowa netto sektora bankowego w Polsce
+Wynik przed odpisami
+i podatkiem
+Wynik techniczny - prawa oś
+Wynik techniczny-prawa oś
+Wynik z prowizji
+ i opłat
+Wynik z prowizji i opłat
+Wynik z prowizji i opłat / kapitały
+Wynik z wyceny 
+i działalności
+ handlowej
+Wynik z wyceny i działalności handlowej / kapitały
+Wyniki modeli wczesnego ostrzegania dla Polski
+Wypłacona
+dywidenda
+Wypłaty netto
+Wysokie odwrócenia odpisów utworzonych w 2020 r.
+Wysokość stopy referencyjnej NBP, WIBOR3M oraz IRS5Y5 oraz wysokość różnicy pomiędzy stopą WIBOR3M oraz IRS5Y w Polsce w okresie 03.2020-10.2023
+Wzrost pokrycia /
+Increase 
+in coverage
+Węgry
+Włochy
+Year
+Zaangażowanie funduszy inwestycyjnych w instrumenty dłużne banków (mld zł)
+Zaangażowanie funduszy inwestycyjnych w instrumenty dłużne krajowych przedsiębiorstw niefinansowych (mld zł)
+Zaangażowanie funduszy inwestycyjnych w obligacje PFR i BGK na rzecz Funduszu Przeciwdziałania COVID-19
+Zaangażowanie funduszy inwestycyjnych w papiery dłużne krajowych przedsiębiorstw niefinansowych
+Zaangażowanie funduszy inwestycyjnych w papiery dłużne krajowych przedsiębiorstw niefinansowych (mld zł)
+Zadłużone
+Zagranica
+Zagraniczne
+Zakłady ubezpieczeń
+Zatrzymanie zysku
+Zdolność kredytowa
+Zdolność kredytowa dla różnych gospo-darstw domowych (w tys. zł)
+Zmiana ekspozycji
+na ryzyko
+Zmiana głównych kategorii aktywów finan-sowych gospodarstw domowych (r/r, mld zł)
+Zmiana głównych źródeł finansowania banków (r/r)
+Zmiana natęż ryzyka cykl. [k/k]
+Zmiana rezerw
+Zmiana stanu bilansowego (m/m)
+[mld zł]
+Zmiana stopy bezrobocia pomiędzy 2021Q1 a 2020Q1 (p.p., sa)
+Zmiana zysku netto sektora bankowego i dekompozycja zmiany – kwoty narastająco do sierpnia 2022 r. (lewy panel) i za 12 miesięcy do sierpnia 2022 r. (prawy panel) [mld zł]
+Zmiana zysku netto sektora bankowego w okresie styczeń-wrzesień 2025 r. w porównaniu z odpowiadającym okresem 2024 r. i dekompozycja zmiany [mld zł]
+Zmiany indeksów giełdowych
+Zmiany stanu kredytów mieszkaniowych
+Zmiany wartości kredytów mieszkaniowych w bilansie sektora bankowego
+Zmienne globalne
+Zmienne makro
+Zmienność giełd
+Zmienność obligacji
+Zmienność walut
+Zobowiązania
+Zobowiązania finansowe
+Zobowiązania kwalifikowalne
+Zobowiązania kwalifikowalne na pokrycie docelowego MREL [mld PLN]
+Zobowiązania wobec gospodarstw domowych
+Zobowiązania wobec przedsiębiorstw
+Zobowiązania z tytułu emisji papierów dłużnych
+Zobowiązania z tytułu emisji papierów dłużnych [mld zł]
+Zobowiązania z tytułu kredytów i pożyczek oraz transakcji finansowanych
+Zwrot z aktywów w krajowych bankach komercyjnych (lewy panel) i bankach spółdzielczych (prawy panel)
+Zwrot z aktywów w krajowych bankach komercyjnych i bankach spółdzielczych
+Zysk netto
+Zysk netto analizowanej grupy banków (mld zł)
+Zysk netto analizowanej grupy banków [mld zł]
+Zysk netto z pominięciem skutku NWZA PKO BP
+Zyski i straty z modyfikacji
+Zyski z lokat
+Zyski z lokat i inne składniki
+Zyski zatrzymane
+Złotowe
+[-1,5 - 0%)
+[-1.5 - 0%)
+[0 - 1%)
+[0 - 1,5%)
+[0 - 1.5%)
+[0-10%]
+[1 - 2%)
+[1,5 - 3%)
+[1.5 - 3%)
+[2 - 3%)
+[3 - 6%)
+[3 - 6%]
+above 10 thousand
+above 300%
+adverse scenario
+at origination
+average
+average 8 cities, LTC = 0%
+below 100%
+była i jest dobra
+była i jest zła
+była i jest średnia
+change of total risk exposure
+charges to credit risk provision
+charges to credit risk provisions
+charges to legal risk provisions
+current
+deterioriation
+deterioriation from good to average
+deterioriation from good to poor
+distributed dividend
+distribution of repayment (% of indebted)
+do 4 tys.
+dobra
+duże lub nadmierne obciążenie, nieterminowo
+earnings before   risk charges and tax
+earnings before  credit risk charges and tax
+earnings before charges credit risk provisions and tax
+good
+has both
+has only mortgage
+has only other than mortgage
+heavy and excessive burden, in arrears
+improvement
+improvement from average to good
+improvement from average to poor
+improvement from poor to average
+improvement from poor to good
+indebted HH
+inne zmiany
+funduszy własnych
+mCRISK (PLN mln)
+mCRISK (mln PLN)
+ma tylko hipoteczny
+ma tylko inny
+max
+min
+nie stanowi obciążenia
+nie zmieniła się
+niezadłużone GD
+niski/low
+not a burden
+not indebted HH
+obecna
+obydwa typy
+odpisy na ryzyko
+kredytowe
+odpisy na ryzyko prawne
+ograniczyć wydatki
+own funds' adjustments
+pewne obciążenie, terminowo
+podatek CIT
+podatek od aktywów
+pogorszenie z dobrej do złej
+pogorszenie z dobrej do średniej
+pogorszenie ze średniej do złej
+pogroszyła się
+poniżej 100%
+poor
+poprawa ze złej do dobrej
+poprawa ze złej do średniej
+poprawa ze średniej do dobrej
+poprawiła się
+poprzednia
+pow. 10 tys.
+powyżej 300%
+previous
+provide financial support to the family
+reduce expenses
+ref
+reference scenario
+repaid
+resign from repayment of the permanent financial obligations, including loans
+retained earnings
+rozkład spłat (% zadłużonych)
+same level
+scenariusz referencyjny
+scenariusz referencyjny / 
+reference scenario
+scenariusz szokowy
+scenariusz szokowy / 
+shock scenario
+sell part of the property
+simulated at the end of 2024
+skorzystać z oszczędności
+some burden
+sprzedać część majątku
+spłacony
+sqm
+sum
+suma
+symulacja na koniec 2024
+szok/ adverse
+take loan/credit
+tax on assets
+udzielić wsparcia finansowego rodzinie
+up to 4 thousand
+upadłości pierwotne / initial bankruptcies
+upadłości wtórne / contagion 
+effects
+use savings
+w momencie udzielenia
+was and is average
+was and is good
+was and is poor
+wynik przed odpisami
+i podatkiem
+wypłacona
+dywidenda
+wysoki/high
+zaciągnąć pożyczkę/kredyt
+zadłużone GD
+zatrzymanie zysku
+zmiana ekspozycji
+na ryzyko
+zrezygnować ze spłaty stałych zobowiązań finansowych, w tym kredytowych
+zła
+Łotwa
+Łódź
+Łączna eskpozycja na ryzyko (TREA) 
+[indeks 6-2014=100]
+Łączna eskpozycja na ryzyko, mld zł
+Łączny udział 10 największych kontrahentów w zobowiązaniach ogółem
+Łączny wskaźnik wyprzedzający
+Łączny współczynnik kapitałowy
+Łączny współczynnik kapitałowy analizowanej grupy banków w scenariuszu referencyjnym (lewy panel) i szokowym (prawy panel) oraz dekompozycja jego zmian
+Łączny współczynnik kapitałowy krajowych banków komercyjnych w scenariuszu referencyjnym (lewy panel) i szokowym (prawy panel) oraz dekompozycja jego zmian
+Średni koszt kapitału z modeli
+Średni koszt obsługi długu w relacji do wynagrodzenia
+Średnia
+Średnia wartośc kosztów obsługi długu w relacji do wynagrodzenia
+Średnia wartość prawdpododobieństwa
+Średnie (ofertowe i transakcyjne) stawki czynszu najmu w wybranych grupach miast w Polsce (zł/m2)
+Średnie nominalne ceny transakcyjne w największych 7 miastach w Polsce
+Średnie stawki najmu mieszkań w Polsce (zł/m2)
+Średnie transakcyjne stawki czynszu najmu no-minalne i realne względem wynagrodzeń (WYN) w wybranych grupach miast w Polsce (zł / mkw.)
+Środki własne i współczynnik pokrycia kapitałowego wymogu wypłacalności – dział I
+Środki własne i współczynnik pokrycia kapitałowego wymogu wypłacalności – dział II
+Środki własne kategorii 1 (mld zł)
+Środki własne kategorii 2 (mld zł)
+Środki własne kategorii 3 (mld zł)
+Świat
+średni/medium
+średnia
+średnia 8 miast, LTV = 0%
+Źródło:
+Źródło: EBC, MFW oraz OECD.
